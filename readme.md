@@ -48,11 +48,11 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - ~~[HTTPS Everywhere](https://www.eff.org/https-everywhere)~~ (Enable `HTTPS-Only Mode in all windows` in firefox)
 
 ## Userscripts (Tampermonkey)
-[Anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) - some websites prevent you from copying text. this script bypass it.
+- [Anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) - some websites prevent you from copying text. this script bypass it.
 
-[Login reminder popup remover](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover) - Removes the nagging login popups and banners from mobile and desktop versions of Facebook, Instagram, Reddit, Twitter, Quora, Ask.fm, VK, Pinterest and from the mobile version of Youtube.
+- [Login reminder popup remover](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover) - Removes the nagging login popups and banners from mobile and desktop versions of Facebook, Instagram, Reddit, Twitter, Quora, Ask.fm, VK, Pinterest and from the mobile version of Youtube.
 
-[Pinterest without registration](https://greasyfork.org/en/scripts/6325-pinterest-without-registration) - Browse Pinterest without login/registration
+- [Pinterest without registration](https://greasyfork.org/en/scripts/6325-pinterest-without-registration) - Browse Pinterest without login/registration
 # Search Engines
 - [Duckduckgo 🌟](https://duckduckgo.com/) - A privacy respecting search engine
 - [Searx](https://searx.me/) - A Privacy-respecting metasearch engine
