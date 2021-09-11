@@ -81,8 +81,8 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [Simplewall](https://github.com/henrypp/simplewall) - Firewall for Windows
 
 ## Mobile
-- [Calyx OS 🌟](https://calyxos.org/) - An open source Android mobile operating system that puts privacy and security into the hands of everyday users. 
-- [Lineage OS](https://lineageos.org/) - A free and open-source operating system for various devices, based on the Android mobile platform.
+- [Calyx OS 🌟(Only for Google Pixel and Xiaomi Mi A2)](https://calyxos.org/) - An open source Android mobile operating system that puts privacy and security into the hands of everyday users. 
+- [Lineage OS (Only for Google Pixel)](https://lineageos.org/) - A free and open-source operating system for various devices, based on the Android mobile platform.
 - [Graphene OS](https://grapheneos.org/) - An open source privacy and security focused mobile OS
 
 # Download Managers
