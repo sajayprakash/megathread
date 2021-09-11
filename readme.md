@@ -1,6 +1,3 @@
-# My Megathread
-This is a list of all the useful apps, softwares, extensions and other stuff I use/found on the internet.
-
 # Contents
 - ## [Emoji](#emoji-1)
 - ## [Useful Megathreads](#useful-megathreads-1)
@@ -15,7 +12,7 @@ This is a list of all the useful apps, softwares, extensions and other stuff I u
 - ## [Android Apps](#android-apps-1)
 
 # Emoji
-Some items in this list has a 🌟 icon next to them. Items with a 🌟 represent my top/favourite pick(s) for that category.
+Some items in this list has a 🌟 icon next to them. Items with a 🌟 represent my top/favourite pick(s) for that category
 
 # Useful Megathreads
 - [r/Piracy](https://www.reddit.com/r/Piracy/wiki/megathread#wiki_megathread)
@@ -31,15 +28,17 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - A fast, lightweight, privacy-focused browser that works across all your devices
 - [Librewolf 🌟](https://librewolf-community.gitlab.io/) - Privacy focused Firefox fork
 - [Brave](https://brave.com/download/) - Privacy focused chromium browser
+- [Tor Browser](https://www.torproject.org/) - Defend yourself against tracking and surveillance. Circumvent censorship
+
 # Password Manager
 - [Bitwarden 🌟](https://bitwarden.com/) - A secure and free password manager for all of your devices.
 - [KeypassXC](https://keepassxc.org/) - Free, open source, light-weight, and easy-to-use password manager.
-- [Tor Browser](https://www.torproject.org/) - Defend yourself against tracking and surveillance. Circumvent censorship.
+
 # Browser Extensions
 ### Seach in [Firefox add-ons](https://addons.mozilla.org/en-US/firefox/extensions/) or [Chrome Web Store](https://chrome.google.com/webstore/category/extensions)
 #### Firefox only addons can be added to its forks on Mobile and PC
-- [Bitwarden](https://bitwarden.com) - A secure and free password manager for all of your devices.
-- [Ublock Origin 🌟](https://ublockorigin.com/) - Free, open-source ad content blocker.
+- [Bitwarden](https://bitwarden.com) - A secure and free password manager for all of your devices
+- [Ublock Origin 🌟](https://ublockorigin.com/) - Free, open-source ad content blocker
 - [Tampermonkey](https://tampermonkey.net/) - A popular userscript manager
 - [Firefox Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) (Only for Firefox)
 - [Canvas Blocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/) (Only for Firefox)
@@ -49,11 +48,12 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - ~~[HTTPS Everywhere](https://www.eff.org/https-everywhere)~~ (Enable `HTTPS-Only Mode in all windows` in firefox)
 
 ## Userscripts (Tampermonkey)
-[Anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) - some websites prevent you from copying text. this script bypass it.
+- [Anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) - some websites prevent you from copying text. this script bypass it
 
-[Login reminder popup remover](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover) - Removes the nagging login popups and banners from mobile and desktop versions of Facebook, Instagram, Reddit, Twitter, Quora, Ask.fm, VK, Pinterest and from the mobile version of Youtube.
+- [Login reminder popup remover](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover) - Removes the nagging login popups and banners from mobile and desktop versions of Facebook, Instagram, Reddit, Twitter, Quora, Ask.fm, VK, Pinterest and from the mobile version of Youtube
 
-[Pinterest without registration](https://greasyfork.org/en/scripts/6325-pinterest-without-registration) - Browse Pinterest without login/registration
+- [Pinterest without registration](https://greasyfork.org/en/scripts/6325-pinterest-without-registration) - Browse Pinterest without login/registration
+
 # Search Engines
 - [Duckduckgo 🌟](https://duckduckgo.com/) - A privacy respecting search engine
 - [Searx](https://searx.me/) - A Privacy-respecting metasearch engine
@@ -73,7 +73,7 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [Linux Mint](https://linuxmint.com/)
 - [Tails](https://tails.boum.org/)
 - [Qubes OS](https://www.qubes-os.org/)
-   
+
 ### Windows 10
 - [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) 
 - [Shutup10](https://www.oo-software.com/en/shutup10) 
@@ -82,19 +82,19 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 
 ## Mobile
 - [Calyx OS 🌟(Only for Google Pixel and Xiaomi Mi A2)](https://calyxos.org/) - An open source Android mobile operating system that puts privacy and security into the hands of everyday users. 
-- [Lineage OS (Only for Google Pixel)](https://lineageos.org/) - A free and open-source operating system for various devices, based on the Android mobile platform.
+- [Lineage OS (Only for Google Pixel)](https://lineageos.org/) - A free and open-source operating system for various devices, based on the Android mobile platform
 - [Graphene OS](https://grapheneos.org/) - An open source privacy and security focused mobile OS
 
 # Download Managers
 - [JDownloader2](https://jdownloader.org/jdownloader2) - A free, open-source download management tool
 - [Internet Download Manager](https://www.internetdownloadmanager.com/) ([unlimited trial reset](#piracy)) - Download Manager (**Not open source**)
 
-# Piracy:
+# Piracy
 
 ## [Useful Megathreads](#useful-megathreads-1)
 
 ## Torrenting client
-#### **Note:** Bittorrent Inc. has bundled malware (a bitcoin miner) into [µTorrent in the past](https://www.trustedreviews.com/news/utorrent-silently-installing-bundled-bitcoin-mining-software-2931825) - it is not trustworthy. Bittorrent (the torrent client) is owned by the same company.
+#### **Note:** Bittorrent Inc. has bundled malware (a bitcoin miner) into [µTorrent in the past](https://www.trustedreviews.com/news/utorrent-silently-installing-      bundled-bitcoin-mining-software-2931825) - it is not trustworthy. Bittorrent (the torrent client) is owned by the same company
 
 - [qBittorrent 🌟](https://www.qbittorrent.org/) - An open-source software alternative to µTorrent
 - [Transmission](https://transmissionbt.com/) - Simple and lightweight open-source torrent client
@@ -120,10 +120,10 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [Steam Unlocked](https://steamunlocked.net/) - Steam games
 - [cs.rin.ru](https://cs.rin.ru/) - Popular gaming piracy forum
 - [Fitgirl repacks](https://fitgirl-repacks.site/) - Popular DDL and torrent site for game repacks
-- [Skidrow repacks](https://skidrowrepacks.com/) - Repacks from popular repacker SKIDROW.
+- [Skidrow repacks](https://skidrowrepacks.com/) - Repacks from popular repacker SKIDROW
 
 # Android Apps
-    
+
 ## Video/Music Streaming
 - [Blackhole](https://github.com/Sangwan5688/BlackHole) - Open Source Music client (JioSaavn,Spotify,Youtube Music)
 - [Youtube Vanced ](https://vancedapp.com/) - Modded YouTube client
@@ -150,6 +150,7 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [Barinsta](https://f-droid.org/en/packages/me.austinhuang.instagrabber/) (taken down but this [fork](https://codeberg.org/avalos/barinsta) still exists) - Open source Instagram client
 - [Fritter](https://f-droid.org/en/packages/com.jonjomckay.fritter/) - Open source Twitter client
 - [Signal 🌟](https://www.signal.org/) - An open source secure messenger, alternative to whatsapp
+- [QKSMS](https://f-droid.org/en/packages/com.moez.QKSMS/) - Open source replacement for the stock AOSP messaging app
 - [Aliucord](https://github.com/Aliucord/Aliucord) - Modified Discord client (**Against TOS**)
 - [Briar](https://f-droid.org/en/packages/org.briarproject.briar.android/) - An open source secure messenger
 
@@ -160,18 +161,18 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 
 - [Duckduckgo Privacy Browser](https://f-droid.org/en/packages/com.duckduckgo.mobile.android/)  
 - [Mull Browser 🌟](https://f-droid.org/en/packages/us.spotco.fennec_dos/) - A privacy oriented and deblobbed web browser based on Mozilla technology
-- [Tor Browser](https://www.torproject.org/download/) - Defend yourself against tracking and surveillance. Circumvent censorship.
+- [Tor Browser](https://www.torproject.org/download/) - Defend yourself against tracking and surveillance. Circumvent censorship
 - [Bromite](https://www.bromite.org/) - Bromite is a Chromium fork with ad blocking and enhanced privacy; take back your browser
 
 ## VPN
-- [Orbot](https://guardianproject.info/apps/org.torproject.android/) - Orbot is a free proxy app that empowers other apps to use the internet more securely. 
-- [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy.
+- [Orbot](https://guardianproject.info/apps/org.torproject.android/) - Orbot is a free proxy app that empowers other apps to use the internet more securely
+- [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy
 
 ## Other Apps
 #### Most of these can be found on Fdroid and Aurora Store
-- [Openboard](https://f-droid.org/en/packages/org.dslul.openboard.inputmethod.latin/) - A 100% foss keyboard based on AOSP, with no dependency on Google binaries, that respects your privacy.
-- [OsmAnd~](https://f-droid.org/en/packages/net.osmand.plus/) - A map and navigation application with access to the free, worldwide, and high-quality OpenStreetMap data.
-- [QR and Barcode Scanner](https://f-droid.org/en/packages/com.example.barcodescanner/) - An open source  QR and barcode scanner with all the features you need. 
+- [Openboard](https://f-droid.org/en/packages/org.dslul.openboard.inputmethod.latin/) - A 100% foss keyboard based on AOSP, with no dependency on Google binaries, that respects your privacy
+- [OsmAnd~](https://f-droid.org/en/packages/net.osmand.plus/) - A map and navigation application with access to the free, worldwide, and high-quality OpenStreetMap data
+- [QR and Barcode Scanner](https://f-droid.org/en/packages/com.example.barcodescanner/) - An open source  QR and barcode scanner with all the features you need
 - [Pocket Paint](https://f-droid.org/en/packages/org.catrobat.paintroid/) - An open source graphical paint editor App
 - [VLC](https://f-droid.org/en/packages/org.videolan.vlc/) - The best video and music player. Fast and “just works”, plays any file
 - [Adobe Scan](https://play.google.com/store/apps/details?id=com.adobe.scan.android&hl=en_US&gl=US) (download from Aurora Store) {**Disable Network Access using Firewall**}
@@ -186,7 +187,7 @@ Based in Switzerland
 - [K9 mail 🌟](https://f-droid.org/en/packages/com.fsck.k9/) - Open source email client
 - [Fairmail](https://f-droid.org/en/packages/eu.faircode.email/) - Open source email client
 - [Simplelogin](https://f-droid.org/en/packages/io.simplelogin.android.fdroid/) - create email aliases
-    
+
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
