@@ -1,6 +1,4 @@
 # My Megathread
-
-# Preamble
 This is a list of all the useful apps, softwares, extensions and other stuff I use/found on the internet.
 
 # Contents
