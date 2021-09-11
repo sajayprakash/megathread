@@ -31,10 +31,12 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - A fast, lightweight, privacy-focused browser that works across all your devices
 - [Librewolf 🌟](https://librewolf-community.gitlab.io/) - Privacy focused Firefox fork
 - [Brave](https://brave.com/download/) - Privacy focused chromium browser
+
 # Password Manager
 - [Bitwarden 🌟](https://bitwarden.com/) - A secure and free password manager for all of your devices.
 - [KeypassXC](https://keepassxc.org/) - Free, open source, light-weight, and easy-to-use password manager.
 - [Tor Browser](https://www.torproject.org/) - Defend yourself against tracking and surveillance. Circumvent censorship.
+
 # Browser Extensions
 ### Seach in [Firefox add-ons](https://addons.mozilla.org/en-US/firefox/extensions/) or [Chrome Web Store](https://chrome.google.com/webstore/category/extensions)
 #### Firefox only addons can be added to its forks on Mobile and PC
