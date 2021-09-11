@@ -1,5 +1,5 @@
 # My Megathread
-This is a list of all the useful apps, softwares, extensions and other stuff I use/found on the internet.
+This is a list of all the useful apps, websites, extensions and other stuff I use/found on the internet.
 
 # Contents
 - ## [Emoji](#emoji-1)
