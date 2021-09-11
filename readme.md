@@ -1,6 +1,3 @@
-# My Megathread
-This is a list of all the useful apps, websites, extensions and other stuff I use/found on the internet.
-
 # Contents
 - ## [Emoji](#emoji-1)
 - ## [Useful Megathreads](#useful-megathreads-1)
