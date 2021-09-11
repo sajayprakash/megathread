@@ -89,7 +89,7 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [JDownloader2](https://jdownloader.org/jdownloader2) - A free, open-source download management tool
 - [Internet Download Manager](https://www.internetdownloadmanager.com/) ([unlimited trial reset](#piracy)) - Download Manager (**Not open source**)
 
-# Piracy:
+# Piracy
 
 ## [Useful Megathreads](#useful-megathreads-1)
 
@@ -150,6 +150,7 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [Barinsta](https://f-droid.org/en/packages/me.austinhuang.instagrabber/) (taken down but this [fork](https://codeberg.org/avalos/barinsta) still exists) - Open source Instagram client
 - [Fritter](https://f-droid.org/en/packages/com.jonjomckay.fritter/) - Open source Twitter client
 - [Signal 🌟](https://www.signal.org/) - An open source secure messenger, alternative to whatsapp
+- [QKSMS](https://f-droid.org/en/packages/com.moez.QKSMS/) - Open source replacement for the stock AOSP messaging app.
 - [Aliucord](https://github.com/Aliucord/Aliucord) - Modified Discord client (**Against TOS**)
 - [Briar](https://f-droid.org/en/packages/org.briarproject.briar.android/) - An open source secure messenger
 
