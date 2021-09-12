@@ -82,8 +82,8 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 
 ## Mobile
 - [Calyx OS 🌟(Only for Google Pixel and Xiaomi Mi A2)](https://calyxos.org/) - An open source Android mobile operating system that puts privacy and security into the hands of everyday users. 
-- [Lineage OS (Only for Google Pixel)](https://lineageos.org/) - A free and open-source operating system for various devices, based on the Android mobile platform
-- [Graphene OS](https://grapheneos.org/) - An open source privacy and security focused mobile OS
+- [Lineage OS](https://lineageos.org/) - A free and open-source operating system for various devices, based on the Android mobile platform
+- [Graphene OS (Only for Google Pixel)](https://grapheneos.org/) - An open source privacy and security focused mobile OS
 
 # Download Managers
 - [JDownloader2](https://jdownloader.org/jdownloader2) - A free, open-source download management tool
