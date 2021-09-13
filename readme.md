@@ -16,12 +16,15 @@
 Some items in this list has a 🌟 icon next to them. Items with a 🌟 represent my top/favourite pick(s) for that category
 
 # Useful Megathreads
-- [r/Piracy](https://www.reddit.com/r/Piracy/wiki/megathread#wiki_megathread)
-- [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)
-- [Roms Megathread](https://pastelink.net/24dhn)
-- [awesome-piracy by Igglybuff](https://github.com/Igglybuff/awesome-piracy)
-- [r/CemuPiracy](https://www.reddit.com/r/CemuPiracy/wiki/tutorial#wiki_things_you_need)
-- [Open Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
+- [r/Piracy](https://www.reddit.com/r/Piracy/wiki/megathread#wiki_megathread) - Piracy megathread
+- [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) - Another piracy megathread
+- [Roms Megathread](https://pastelink.net/24dhn) - Console Roms Megathread
+- [awesome-piracy by Igglybuff](https://github.com/Igglybuff/awesome-piracy) - List of awesome warez and piracy links 
+- [r/CemuPiracy](https://www.reddit.com/r/CemuPiracy/wiki/tutorial#wiki_things_you_need) - Cemu piracy megathread
+- [Open Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps) - Collaborative list of open-source iOS apps 
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - List of Free Software network services and web applications which can be hosted on your own servers 
+- [awesome-anime-sources by anshumanv](https://github.com/anshumanv/awesome-anime-sources) - Curated list of everything related to anime
+- [Userscripts by darkred](https://github.com/darkred/Userscripts) - Some useful userscripts
 
 
 # Web Browsers
@@ -29,16 +32,16 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - A fast, lightweight, privacy-focused browser that works across all your devices
 - [Librewolf 🌟](https://librewolf-community.gitlab.io/) - Privacy focused Firefox fork
 - [Brave](https://brave.com/download/) - Privacy focused chromium browser
-- [Tor Browser](https://www.torproject.org/) - Defend yourself against tracking and surveillance. Circumvent censorship
+- [Tor Browser 🌟](https://www.torproject.org/) - Defend yourself against tracking and surveillance. Circumvent censorship
 
 # Password Manager
-- [Bitwarden 🌟](https://bitwarden.com/) - A secure and free password manager for all of your devices.
-- [KeypassXC](https://keepassxc.org/) - Free, open source, light-weight, and easy-to-use password manager.
+- [Bitwarden 🌟](https://bitwarden.com/) - A secure and free password manager for all of your devices
+- [KeypassXC](https://keepassxc.org/) - Free, open source, light-weight, and easy-to-use password manager
 
 # Browser Extensions
 ### Seach in [Firefox add-ons](https://addons.mozilla.org/en-US/firefox/extensions/) or [Chrome Web Store](https://chrome.google.com/webstore/category/extensions)
 #### Firefox only addons can be added to its forks on Mobile and PC
-- [Bitwarden](https://bitwarden.com) - A secure and free password manager for all of your devices
+- [Bitwarden 🌟](https://bitwarden.com) - A secure and free password manager for all of your devices
 - [Ublock Origin 🌟](https://ublockorigin.com/) - Free, open-source ad content blocker
 - [Tampermonkey](https://tampermonkey.net/) - A popular userscript manager
 - [Firefox Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) (Only for Firefox)
@@ -66,13 +69,16 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [Simplelogin](https://simplelogin.io/) -  Create email aliases
 - [Temp Mail](https://temp-mail.org/) - Disposable mails
 
+# Misc
+- [lingva-translate](https://lingva.ml/) - a Free and Open Source Alternative front-end for Google Translate
+- [VirusTotal.com](https://www.virustotal.com/) - Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community 
 
 # Operating Systems
 ## PC
 
 ### Windows 10
 - [Windows 10](https://www.microsoft.com/en-us/software-download/windows10) - Windows 10 is a major release of the Windows NT operating system developed by Microsoft.
-- [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) - Guide to prevent Windows 10 from sending your data to Microsoft
+- [Windows 10 Privacy Guide 🌟](https://github.com/adolfintel/Windows10-Privacy) - Guide to prevent Windows 10 from sending your data to Microsoft
 - [Shutup10](https://www.oo-software.com/en/shutup10) - Free antispy tool for Windows 10
 - [Windows Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness
 - [Simplewall](https://github.com/henrypp/simplewall) - Firewall for Windows
@@ -83,7 +89,7 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [Linux Mint](https://linuxmint.com/) - Linux Mint is a community-driven Linux distribution based on Ubuntu, bundled with a variety of free and open-source applications.
 - [Tails](https://tails.boum.org/) (**Live operating system for using the Tor/Onion network**) - Tails is a portable operating system that protects against surveillance and censorship. 
 - [Qubes OS](https://www.qubes-os.org/) - A reasonably secure operating system
-- [Arch linux 🌟](https://archlinux.org/) (**Not recommended for beginners**) - A lightweight and flexible Linux® distribution that tries to keep it simple.
+- [Arch linux 🌟](https://archlinux.org/) (**Not recommended for beginners**) - A lightweight and flexible Linux® distribution that tries to keep it simple
 
 ## Mobile
 - [Calyx OS 🌟(Only for Google Pixel and Xiaomi Mi A2)](https://calyxos.org/) - An open source Android mobile operating system that puts privacy and security into the hands of everyday users. 
@@ -106,9 +112,10 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 
 - [µTorrent 2.2.1 Build 25302](http://web.archive.org/web/2011*/http://download.utorrent.com/2.2.1/utorrent.exe) (**Not recommended**) - If you're still set on using µTorrent, this is a stable old build of µTorrent, before it had malware added. It was released on May 18, 2011. Set `net.discoverable` to False in settings and disable the Web GUI to mitigate security vulnerabilities that were later discovered. You can grab the installer from the wayback machine, as it has it cached. Just navigate to a close date past the release date noted earlier. You can check which version you have downloaded by checking the file's properties, in the details tab
 
-## Anime 
+## Anime/Movie
 
 - [piracy.moe 🌟](https://piracy.moe/) - Index for Anime and Manga sites/apps
+- [dopebox.net](https://www.dopebox.net/home) - Watch Free Movies Online
 - [/r/animepiracy](https://www.reddit.com/r/animepiracy/) - This sub is about streaming and torrent websites for anime
 - [meowinjapanese.cf 🌟](https://meowinjapanese.cf) - [Nyaa.si](https://nyaa.si) proxy site (for torrenting anime)
 - [GoGo Anime](https://gogoanime.vc/) - Popular website for watching anime
@@ -130,15 +137,15 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 # Android Apps
 
 ## Video/Music Streaming
-- [Blackhole](https://github.com/Sangwan5688/BlackHole) - Open Source Music client (JioSaavn,Spotify,Youtube Music)
+- [Blackhole 🌟](https://github.com/Sangwan5688/BlackHole) - Open Source Music client (JioSaavn,Spotify,Youtube Music)
 - [Youtube Vanced ](https://vancedapp.com/) - Modded YouTube client
 - [Blokada (Ad blocker for Android and ios)](https://blokada.org/)
 - [xManager](https://github.com/xManager-v2/xManager-Spotify) - Modded Spotify
-- [Newpipe](https://newpipe.net/) - Open Source YouTube client
+- [Newpipe 🌟](https://newpipe.net/) - Open Source YouTube client
 
 ## App Stores
 
-- [Fdroid](https://f-droid.org/) - Open Source apps
+- [Fdroid 🌟](https://f-droid.org/) - Open Source apps
 - [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/) - Alternative to Google Play Store
 
 ## Two Factor Authenticator
