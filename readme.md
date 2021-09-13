@@ -72,6 +72,7 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 # Misc
 - [lingva-translate](https://lingva.ml/) - a Free and Open Source Alternative front-end for Google Translate
 - [VirusTotal.com](https://www.virustotal.com/) - Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community 
+- [kutt.it](https://kutt.it/) - An open source modern URL shortener
 
 # Operating Systems
 ## PC
