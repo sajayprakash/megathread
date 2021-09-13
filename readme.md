@@ -16,6 +16,7 @@
 Some items in this list has a 🌟 icon next to them. Items with a 🌟 represent my top/favourite pick(s) for that category
 
 # Useful Megathreads
+- [privacyguides.org](https://www.privacyguides.org/) - The guide to restoring your online privacy. Formerly known as privacytools.io
 - [r/Piracy](https://www.reddit.com/r/Piracy/wiki/megathread#wiki_megathread) - Piracy megathread
 - [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) - Another piracy megathread
 - [Roms Megathread](https://pastelink.net/24dhn) - Console Roms Megathread
