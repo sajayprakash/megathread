@@ -1,4 +1,5 @@
 # Contents
+ If you come across dead links, please report them by creating an [issue](https://github.com/sajayprakash/megathread/issues/new/).
 - ## [Emoji](#emoji-1)
 - ## [Useful Megathreads](#useful-megathreads-1)
 - ## [Web Browsers](#web-browsers-1)
@@ -68,17 +69,21 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 
 # Operating Systems
 ## PC
-- [Windows 10](https://www.microsoft.com/en-us/software-download/windows10)
-- [Fedora 🌟](https://getfedora.org/)
-- [Linux Mint](https://linuxmint.com/)
-- [Tails](https://tails.boum.org/)
-- [Qubes OS](https://www.qubes-os.org/)
 
 ### Windows 10
-- [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) 
-- [Shutup10](https://www.oo-software.com/en/shutup10) 
-- [Windows Activator](https://github.com/massgravel/Microsoft-Activation-Scripts) 
+- [Windows 10](https://www.microsoft.com/en-us/software-download/windows10) - Windows 10 is a major release of the Windows NT operating system developed by Microsoft.
+- [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) - Guide to prevent Windows 10 from sending your data to Microsoft
+- [Shutup10](https://www.oo-software.com/en/shutup10) - Free antispy tool for Windows 10
+- [Windows Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness
 - [Simplewall](https://github.com/henrypp/simplewall) - Firewall for Windows
+
+### Linux 
+
+- [Fedora 🌟](https://getfedora.org/) - Fedora is a Linux distribution developed by the community-supported Fedora Project
+- [Linux Mint](https://linuxmint.com/) - Linux Mint is a community-driven Linux distribution based on Ubuntu, bundled with a variety of free and open-source applications.
+- [Tails](https://tails.boum.org/) (**Live operating system for using the Tor/Onion network**) - Tails is a portable operating system that protects against surveillance and censorship. 
+- [Qubes OS](https://www.qubes-os.org/) - A reasonably secure operating system
+- [Arch linux 🌟](https://archlinux.org/) (**Not recommended for beginners**) - A lightweight and flexible Linux® distribution that tries to keep it simple.
 
 ## Mobile
 - [Calyx OS 🌟(Only for Google Pixel and Xiaomi Mi A2)](https://calyxos.org/) - An open source Android mobile operating system that puts privacy and security into the hands of everyday users. 
@@ -105,7 +110,7 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 
 - [piracy.moe 🌟](https://piracy.moe/) - Index for Anime and Manga sites/apps
 - [/r/animepiracy](https://www.reddit.com/r/animepiracy/) - This sub is about streaming and torrent websites for anime
-- [meowinjapanese.cf 🌟](meowinjapanese.cf) - [Nyaa.si](https://nyaa.si) proxy site (for torrenting anime)
+- [meowinjapanese.cf 🌟](https://meowinjapanese.cf) - [Nyaa.si](https://nyaa.si) proxy site (for torrenting anime)
 - [GoGo Anime](https://gogoanime.vc/) - Popular website for watching anime
 - [Animxplay.to 🌟](https://animixplay.to/) - Watch HD Anime for Free
 - [AnymeX (Android)](https://bin.privacytools.io/?82ebd2deb860c1af#FeVTRfT2EKrusr2HmoJC9aTKJxry1Tug83iv1wSCf6pA) - Uploaded APK to my [mega.nz](https://mega.nz/) drive (Beta v11.990)
