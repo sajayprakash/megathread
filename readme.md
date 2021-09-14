@@ -125,8 +125,9 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [AnymeX (Android)](https://bin.privacytools.io/?82ebd2deb860c1af#FeVTRfT2EKrusr2HmoJC9aTKJxry1Tug83iv1wSCf6pA) - Uploaded APK to my [mega.nz](https://mega.nz/) drive (Beta v11.990)
 
 ## Software
-- IDM Unlimited Trial: [IDM trial reset](https://github.com/J2TeaM/idm-trial-reset)
-- Spotify Ad Blocker (PC): [BlockTheSpot](https://github.com/mrpond/BlockTheSpot)
+- [IDM trial reset](https://github.com/J2TeaM/idm-trial-reset) - IDM unlimited trial
+- [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Spotify ad blocker (PC)
+- [SpotiFlyer 🌟](https://github.com/Shabinder/SpotiFlyer/) - Multiplatform Music Downloader, Supports Spotify / Gaana / Youtube Music / Jio Saavn 
 
 ## Windows Games sites   
 - [/r/CrackWatch](https://reddit.com/r/CrackWatch/) CrackWatch Subreddit
