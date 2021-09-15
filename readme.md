@@ -26,6 +26,7 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - List of Free Software network services and web applications which can be hosted on your own servers 
 - [awesome-anime-sources by anshumanv](https://github.com/anshumanv/awesome-anime-sources) - Curated list of everything related to anime
 - [Userscripts by darkred](https://github.com/darkred/Userscripts) - Some useful userscripts
+- [FOSS Apps List](https://gitlab.com/divested-mobile/foss_apps_list) - A list of recommended FOSS apps available via F-Droid
 
 
 # Web Browsers
