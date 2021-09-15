@@ -172,7 +172,7 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 
 ## Password Manager
 - [Bitwarden 🌟](https://bitwarden.com/) - A secure and free password manager for all of your devices
-- [Keepass2Android](https://github.com/PhilippC/keepass2android) - Free, open source, light-weight, and easy-to-use password manager
+- [KeePassDX](https://f-droid.org/en/packages/com.kunzisoft.keepass.libre/) - Secure and open source password manager compatible with KeePass files
 
 #### **Note:** To install apps from The Gaurdian Project (Tor browser and Orbot) you need to add their [Fdroid repo](https://guardianproject.info/fdroid/)
 
