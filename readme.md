@@ -1,7 +1,7 @@
 # Contents
  If you come across dead links, please report them by creating an [issue](https://github.com/sajayprakash/megathread/issues/new/).
 - ## [Emoji](#emoji-1)
-- ## [Useful Megathreads](#useful-megathreads-1)
+- ## [Useful Megathreads & Guides](#useful-megathreads-1)
 - ## [Web Browsers](#web-browsers-1)
 - ## [Password Manager](#password-manager-1)
 - ## [Browser Extensions](#browser-extensions-1)
@@ -15,7 +15,7 @@
 # Emoji
 Some items in this list has a 🌟 icon next to them. Items with a 🌟 represent my top/favourite pick(s) for that category
 
-# Useful Megathreads
+# Useful Megathreads & Guides
 - [privacyguides.org](https://www.privacyguides.org/) - The guide to restoring your online privacy. Formerly known as privacytools.io
 - [r/Piracy](https://www.reddit.com/r/Piracy/wiki/megathread#wiki_megathread) - Piracy megathread
 - [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) - Another piracy megathread
@@ -27,6 +27,7 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [awesome-anime-sources by anshumanv](https://github.com/anshumanv/awesome-anime-sources) - Curated list of everything related to anime
 - [Userscripts by darkred](https://github.com/darkred/Userscripts) - Some useful userscripts
 - [FOSS Apps List](https://gitlab.com/divested-mobile/foss_apps_list) - A list of recommended FOSS apps available via F-Droid
+- [FOSS Guide](https://www.reddit.com/r/fossdroid/comments/ol50f5/foss_guide/) - A guide to Android privacy
 
 
 # Web Browsers
@@ -51,7 +52,7 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [SponsorBlock](https://sponsor.ajay.app/) - Skip sponsorships on YouTube
 - [Simplelogin](https://simplelogin.io/) - Create email aliases
 - [Dark Reader](https://darkreader.org/) - Dark Mode in all sites
-- ~~[HTTPS Everywhere](https://www.eff.org/https-everywhere)~~ (Enable `HTTPS-Only Mode in all windows` in firefox)
+- ~~[HTTPS Everywhere](https://www.eff.org/https-everywhere)~~ ([Enable `HTTPS-Only Mode` in all browsers](https://www.eff.org/deeplinks/2021/09/https-actually-everywhere))
 
 ## Userscripts (Tampermonkey)
 - [Anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) - some websites prevent you from copying text. this script bypass it
@@ -90,6 +91,7 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 
 - [Fedora 🌟](https://getfedora.org/) - Fedora is a Linux distribution developed by the community-supported Fedora Project
 - [Linux Mint](https://linuxmint.com/) - Linux Mint is a community-driven Linux distribution based on Ubuntu, bundled with a variety of free and open-source applications.
+- [Pop!_OS 🌟](https://pop.system76.com/) - Pop!_OS is a free and open-source Linux distribution, based upon Ubuntu, featuring a custom GNOME desktop
 - [Tails](https://tails.boum.org/) (**Live operating system for using the Tor/Onion network**) - Tails is a portable operating system that protects against surveillance and censorship. 
 - [Qubes OS](https://www.qubes-os.org/) - A reasonably secure operating system
 - [Arch linux 🌟](https://archlinux.org/) (**Not recommended for beginners**) - A lightweight and flexible Linux® distribution that tries to keep it simple
