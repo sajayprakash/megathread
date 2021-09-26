@@ -1,7 +1,7 @@
 # Contents
  If you come across dead links, please report them by creating an [issue](https://github.com/sajayprakash/megathread/issues/new/).
 - ## [Emoji](#emoji-1)
-- ## [Useful Megathreads & Guides](#useful-megathreads-1)
+- ## [Useful Megathreads & Guides](#useful-megathreads--guides-1)
 - ## [Web Browsers](#web-browsers-1)
 - ## [Password Manager](#password-manager-1)
 - ## [Browser Extensions](#browser-extensions-1)
@@ -107,7 +107,7 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 
 # Piracy
 
-## [Useful Megathreads](#useful-megathreads-1)
+## [Useful Megathreads](#useful-megathreads--guides-1)
 
 ## Torrenting client
 #### **Note:** Bittorrent Inc. has bundled malware (a bitcoin miner) into [µTorrent in the past](https://www.trustedreviews.com/news/utorrent-silently-installing-      bundled-bitcoin-mining-software-2931825) - it is not trustworthy. Bittorrent (the torrent client) is owned by the same company
