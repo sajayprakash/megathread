@@ -194,13 +194,14 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 
 ## Other Apps
 #### Most of these can be found on Fdroid and Aurora Store
+#### Add the [IzzyOnDroid F-Droid Repository](https://apt.izzysoft.de/fdroid/)
 - [Yet Another Call Blocker 🌟 ](https://f-droid.org/en/packages/dummydomain.yetanothercallblocker/) - Block unwanted calls effortlessly 
 - [Openboard 🌟](https://f-droid.org/en/packages/org.dslul.openboard.inputmethod.latin/) - A 100% foss keyboard based on AOSP, with no dependency on Google binaries, that respects your privacy
 - [OsmAnd~](https://f-droid.org/en/packages/net.osmand.plus/) - A map and navigation application with access to the free, worldwide, and high-quality OpenStreetMap data
 - [QR and Barcode Scanner](https://f-droid.org/en/packages/com.example.barcodescanner/) - An open source  QR and barcode scanner with all the features you need
 - [Pocket Paint](https://f-droid.org/en/packages/org.catrobat.paintroid/) - An open source graphical paint editor App
 - [VLC 🌟](https://f-droid.org/en/packages/org.videolan.vlc/) - The best video and music player. Fast and “just works”, plays any file
-- [Adobe Scan](https://play.google.com/store/apps/details?id=com.adobe.scan.android&hl=en_US&gl=US) (download from Aurora Store) {**Disable Network Access using Firewall**}
+- [Open Scan](https://apt.izzysoft.de/fdroid/index/apk/com.ethereal.openscan) - An open source app that enables users to scan hardcopies of documents or notes and convert it to a PDF file
 - [Simple Mobile Tools 🌟](https://www.simplemobiletools.com/) - A group of simple, open source Android apps without ads and unnecessary permissions, with customizable widgets
 - [RAR](https://play.google.com/store/apps/details?id=com.rarlab.rar&hl=en_US&gl=US)- WinRAR for Mobile (download from Aurora Store)
 - [Steam](https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community&hl=en_US&gl=US) - Steam  Mobile app (download from Aurora Store)
