@@ -28,6 +28,7 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [Userscripts by darkred](https://github.com/darkred/Userscripts) - Some useful userscripts
 - [FOSS Apps List](https://gitlab.com/divested-mobile/foss_apps_list) - A list of recommended FOSS apps available via F-Droid
 - [FOSS Guide](https://www.reddit.com/r/fossdroid/comments/ol50f5/foss_guide/) - A guide to Android privacy
+- [Beginners Guide to Crack Watch Reddit post by /u/EssenseOfMagic](https://www.reddit.com/r/CrackWatch/comments/kpqrsv/crack_watch_beginners_guide_to_crack_watch/) - Beginners guide to Crack Watch
 
 
 # Web Browsers
@@ -134,7 +135,6 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 
 ## Windows Games sites   
 - [/r/CrackWatch](https://reddit.com/r/CrackWatch/) CrackWatch Subreddit
-- [Beginners Guide to Crack Watch Reddit post by /u/EssenseOfMagic](https://www.reddit.com/r/CrackWatch/comments/a7l141/crack_watch_beginners_guide_to_crack_watch/)
 - [Steam Unlocked](https://steamunlocked.net/) - Steam games
 - [cs.rin.ru](https://cs.rin.ru/) - Popular gaming piracy forum
 - [Fitgirl repacks](https://fitgirl-repacks.site/) - Popular DDL and torrent site for game repacks
