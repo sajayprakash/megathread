@@ -195,6 +195,7 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 ## Other Apps
 #### Most of these can be found on Fdroid and Aurora Store
 #### Add the [IzzyOnDroid F-Droid Repository](https://apt.izzysoft.de/fdroid/)
+- [TrackerControl 🌟 ](https://f-droid.org/en/packages/net.kollnig.missioncontrol.fdroid/) - TrackerControl allows to monitor and control hidden data collection in apps
 - [Yet Another Call Blocker 🌟 ](https://f-droid.org/en/packages/dummydomain.yetanothercallblocker/) - Block unwanted calls effortlessly 
 - [Openboard 🌟](https://f-droid.org/en/packages/org.dslul.openboard.inputmethod.latin/) - A 100% foss keyboard based on AOSP, with no dependency on Google binaries, that respects your privacy
 - [OsmAnd~](https://f-droid.org/en/packages/net.osmand.plus/) - A map and navigation application with access to the free, worldwide, and high-quality OpenStreetMap data
