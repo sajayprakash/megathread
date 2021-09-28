@@ -28,7 +28,7 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [Userscripts by darkred](https://github.com/darkred/Userscripts) - Some useful userscripts
 - [FOSS Apps List](https://gitlab.com/divested-mobile/foss_apps_list) - A list of recommended FOSS apps available via F-Droid
 - [FOSS Guide](https://www.reddit.com/r/fossdroid/comments/ol50f5/foss_guide/) - A guide to Android privacy
-- [Beginners Guide to Crack Watch Reddit post by /u/EssenseOfMagic](https://www.reddit.com/r/CrackWatch/comments/kpqrsv/crack_watch_beginners_guide_to_crack_watch/) - Beginners guide to Crack Watch
+- [Beginners Guide to Crack Watch Reddit post by EssenseOfMagic](https://www.reddit.com/r/CrackWatch/comments/kpqrsv/crack_watch_beginners_guide_to_crack_watch/) - Beginners guide to Crack Watch
 
 
 # Web Browsers
@@ -53,6 +53,7 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [SponsorBlock](https://sponsor.ajay.app/) - Skip sponsorships on YouTube
 - [Simplelogin](https://simplelogin.io/) - Create email aliases
 - [Dark Reader](https://darkreader.org/) - Dark Mode in all sites
+- [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) - Removes tracking elements from URLs
 - ~~[HTTPS Everywhere](https://www.eff.org/https-everywhere)~~ ([Enable `HTTPS-Only Mode` in all browsers](https://www.eff.org/deeplinks/2021/09/https-actually-everywhere))
 
 ## Userscripts (Tampermonkey)
@@ -169,6 +170,7 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [Barinsta](https://f-droid.org/en/packages/me.austinhuang.instagrabber/) (taken down but this [fork](https://codeberg.org/avalos/barinsta) still exists) - Open source Instagram client
 - [Fritter](https://f-droid.org/en/packages/com.jonjomckay.fritter/) - Open source Twitter client
 - [Signal 🌟](https://www.signal.org/) - An open source secure messenger, alternative to whatsapp
+- [Session 🌟](https://getsession.org/) - Session is an end-to-end encrypted messenger that minimises sensitive metadata
 - [QKSMS](https://f-droid.org/en/packages/com.moez.QKSMS/) - Open source replacement for the stock AOSP messaging app
 - [Aliucord](https://github.com/Aliucord/Aliucord) - Modified Discord client (**Against TOS**)
 - [Briar](https://f-droid.org/en/packages/org.briarproject.briar.android/) - An open source secure messenger
@@ -192,13 +194,14 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 
 ## Other Apps
 #### Most of these can be found on Fdroid and Aurora Store
-- [Openboard](https://f-droid.org/en/packages/org.dslul.openboard.inputmethod.latin/) - A 100% foss keyboard based on AOSP, with no dependency on Google binaries, that respects your privacy
+- [Yet Another Call Blocker 🌟 ](https://f-droid.org/en/packages/dummydomain.yetanothercallblocker/) - Block unwanted calls effortlessly 
+- [Openboard 🌟](https://f-droid.org/en/packages/org.dslul.openboard.inputmethod.latin/) - A 100% foss keyboard based on AOSP, with no dependency on Google binaries, that respects your privacy
 - [OsmAnd~](https://f-droid.org/en/packages/net.osmand.plus/) - A map and navigation application with access to the free, worldwide, and high-quality OpenStreetMap data
 - [QR and Barcode Scanner](https://f-droid.org/en/packages/com.example.barcodescanner/) - An open source  QR and barcode scanner with all the features you need
 - [Pocket Paint](https://f-droid.org/en/packages/org.catrobat.paintroid/) - An open source graphical paint editor App
-- [VLC](https://f-droid.org/en/packages/org.videolan.vlc/) - The best video and music player. Fast and “just works”, plays any file
+- [VLC 🌟](https://f-droid.org/en/packages/org.videolan.vlc/) - The best video and music player. Fast and “just works”, plays any file
 - [Adobe Scan](https://play.google.com/store/apps/details?id=com.adobe.scan.android&hl=en_US&gl=US) (download from Aurora Store) {**Disable Network Access using Firewall**}
-- Simple Apps (Calculator,Calendar,Voice Recorder,Gallery) {**Download from Fdroid**}
+- [Simple Mobile Tools 🌟](https://www.simplemobiletools.com/) - A group of simple, open source Android apps without ads and unnecessary permissions, with customizable widgets
 - [RAR](https://play.google.com/store/apps/details?id=com.rarlab.rar&hl=en_US&gl=US)- WinRAR for Mobile (download from Aurora Store)
 - [Steam](https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community&hl=en_US&gl=US) - Steam  Mobile app (download from Aurora Store)
 
