@@ -113,12 +113,9 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 ## [Useful Megathreads](#useful-megathreads--guides-1)
 
 ## Torrenting client
-#### **Note:** Bittorrent Inc. has bundled malware (a bitcoin miner) into [µTorrent in the past](https://www.trustedreviews.com/news/utorrent-silently-installing-      bundled-bitcoin-mining-software-2931825) - it is not trustworthy. Bittorrent (the torrent client) is owned by the same company
 
 - [qBittorrent 🌟](https://www.qbittorrent.org/) - An open-source software alternative to µTorrent
 - [Transmission](https://transmissionbt.com/) - Simple and lightweight open-source torrent client
-
-- [µTorrent 2.2.1 Build 25302](http://web.archive.org/web/2011*/http://download.utorrent.com/2.2.1/utorrent.exe) (**Not recommended**) - If you're still set on using µTorrent, this is a stable old build of µTorrent, before it had malware added. It was released on May 18, 2011. Set `net.discoverable` to False in settings and disable the Web GUI to mitigate security vulnerabilities that were later discovered. You can grab the installer from the wayback machine, as it has it cached. Just navigate to a close date past the release date noted earlier. You can check which version you have downloaded by checking the file's properties, in the details tab
 
 ## Anime/Movie
 
