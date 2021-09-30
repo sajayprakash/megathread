@@ -35,7 +35,7 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - A lightweight approach to removing Google web service dependency
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - A fast, lightweight, privacy-focused browser that works across all your devices
 - [Librewolf 🌟](https://librewolf-community.gitlab.io/) - Privacy focused Firefox fork
-- [Brave](https://brave.com/download/) - Privacy focused chromium browser (**[Not recommended](https://github.com/privacytools/privacytools.io/pull/657#issuecomment-462137262)**)
+- [Brave](https://brave.com/download/) - Privacy focused chromium browser ([Not recommended](https://en.wikipedia.org/wiki/Brave_(web_browser)#Critical_reception))
 - [Tor Browser 🌟](https://www.torproject.org/) - Defend yourself against tracking and surveillance. Circumvent censorship
 
 # Password Manager
@@ -54,6 +54,7 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [Simplelogin](https://simplelogin.io/) - Create email aliases
 - [Dark Reader](https://darkreader.org/) - Dark Mode in all sites
 - [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) - Removes tracking elements from URLs
+- [User-Agent Switcher and Manager](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/) - Spoof websites trying to gather information about your web navigation—like your browser type and operating system
 - ~~[HTTPS Everywhere](https://www.eff.org/https-everywhere)~~ ([Enable `HTTPS-Only Mode` in all browsers](https://www.eff.org/deeplinks/2021/09/https-actually-everywhere))
 
 ## Userscripts (Tampermonkey)
