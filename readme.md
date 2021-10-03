@@ -47,7 +47,8 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 #### Firefox only addons can be added to its forks on Mobile and PC
 - [Bitwarden 🌟](https://bitwarden.com) - A secure and free password manager for all of your devices
 - [Ublock Origin 🌟](https://ublockorigin.com/) - Free, open-source ad content blocker
-- [Tampermonkey](https://tampermonkey.net/) - A popular userscript manager
+- [NoScript Security Suite 🌟](https://noscript.net/) - Allow active content to run only from sites you trust, and protect yourself against XSS and Clickjacking attacks, "Spectre", "Meltdown" and other JavaScript exploits
+- [Tampermonkey 🌟](https://tampermonkey.net/) - A popular userscript manager
 - [Firefox Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) (Only for Firefox)
 - [Canvas Blocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/) (Only for Firefox)
 - [SponsorBlock](https://sponsor.ajay.app/) - Skip sponsorships on YouTube
@@ -59,8 +60,10 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 
 ## Userscripts (Tampermonkey)
 - [Anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) - some websites prevent you from copying text. this script bypass it
+ 
+- [Anti-Adblock Killer 🌟](https://github.com/reek/anti-adblock-killer#anti-adblock-killer--reek) - Helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable
 
-- [Login reminder popup remover](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover) - Removes the nagging login popups and banners from mobile and desktop versions of Facebook, Instagram, Reddit, Twitter, Quora, Ask.fm, VK, Pinterest and from the mobile version of Youtube
+- [Login reminder popup remover 🌟](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover) - Removes the nagging login popups and banners from mobile and desktop versions of Facebook, Instagram, Reddit, Twitter, Quora, Ask.fm, VK, Pinterest and from the mobile version of Youtube
 
 - [Pinterest without registration](https://greasyfork.org/en/scripts/6325-pinterest-without-registration) - Browse Pinterest without login/registration
 
@@ -79,6 +82,7 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [lingva-translate](https://lingva.ml/) - a Free and Open Source Alternative front-end for Google Translate
 - [VirusTotal.com](https://www.virustotal.com/) - Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community 
 - [kutt.it](https://kutt.it/) - An open source modern URL shortener
+- [NoScript Whitelist](https://github.com/crypdick/NoScript-Crowdsourced-Whitelist-Blacklist) - A global domain database for NoScript 
 
 # Operating Systems
 ## PC
