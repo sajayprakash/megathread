@@ -87,8 +87,10 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 # Operating Systems
 ## PC
 
-### Windows 10
+### Windows
+- [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) - Windows 11 is a major version of the Windows NT operating system and is the successor to Windows 10 
 - [Windows 10](https://www.microsoft.com/en-us/software-download/windows10) - Windows 10 is a major release of the Windows NT operating system developed by Microsoft.
+- [Win10 Smart Debloat 🌟](https://github.com/LeDragoX/Win10SmartDebloat) - Debloat and Improve Security/Performance on Windows 10/+
 - [Windows 10 Privacy Guide 🌟](https://github.com/adolfintel/Windows10-Privacy) - Guide to prevent Windows 10 from sending your data to Microsoft
 - [Shutup10](https://www.oo-software.com/en/shutup10) - Free antispy tool for Windows 10
 - [Windows Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness
