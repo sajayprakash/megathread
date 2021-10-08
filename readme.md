@@ -128,7 +128,7 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [piracy.moe 🌟](https://piracy.moe/) - Index for Anime and Manga sites/apps
 - [dopebox.net](https://www.dopebox.net/home) - Watch Free Movies Online
 - [/r/animepiracy](https://www.reddit.com/r/animepiracy/) - This sub is about streaming and torrent websites for anime
-- [meowinjapanese.cf 🌟](https://meowinjapanese.cf) - [Nyaa.si](https://nyaa.si) proxy site (for torrenting anime)
+- [nyaa.lol 🌟](https://nyaa.lol) - [Nyaa.si](https://nyaa.si) proxy site (for torrenting anime)
 - [GoGo Anime](https://gogoanime.vc/) - Popular website for watching anime
 - [Animxplay.to 🌟](https://animixplay.to/) - Watch HD Anime for Free
 - [AnymeX (Android)](https://bin.privacytools.io/?82ebd2deb860c1af#FeVTRfT2EKrusr2HmoJC9aTKJxry1Tug83iv1wSCf6pA) - Uploaded APK to my [mega.nz](https://mega.nz/) drive (Beta v11.990)
