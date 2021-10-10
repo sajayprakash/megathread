@@ -56,6 +56,7 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [Dark Reader](https://darkreader.org/) - Dark Mode in all sites
 - [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) - Removes tracking elements from URLs
 - [User-Agent Switcher and Manager](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/) - Spoof websites trying to gather information about your web navigation—like your browser type and operating system
+- [Terms of Service; Didn't Read](https://tosdr.org/) - Provides TL;DR for Terms of Service
 - ~~[HTTPS Everywhere](https://www.eff.org/https-everywhere)~~ ([Enable `HTTPS-Only Mode` in all browsers](https://www.eff.org/deeplinks/2021/09/https-actually-everywhere))
 
 ## Userscripts (Tampermonkey)
