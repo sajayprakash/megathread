@@ -43,7 +43,7 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [KeypassXC](https://keepassxc.org/) - Free, open source, light-weight, and easy-to-use password manager
 
 # Browser Extensions
-### Seach in [Firefox add-ons](https://addons.mozilla.org/en-US/firefox/extensions/) or [Chrome Web Store](https://chrome.google.com/webstore/category/extensions)
+### Search in [Firefox add-ons](https://addons.mozilla.org/en-US/firefox/extensions/) or [Chrome Web Store](https://chrome.google.com/webstore/category/extensions)
 #### Firefox only addons can be added to its forks on Mobile and PC
 - [Bitwarden 🌟](https://bitwarden.com) - A secure and free password manager for all of your devices
 - [Ublock Origin 🌟](https://ublockorigin.com/) - Free, open-source ad content blocker
