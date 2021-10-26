@@ -35,7 +35,7 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - A lightweight approach to removing Google web service dependency
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - A fast, lightweight, privacy-focused browser that works across all your devices
 - [Librewolf 🌟](https://librewolf-community.gitlab.io/) - Privacy focused Firefox fork
-- [Brave](https://brave.com/download/) - Privacy focused chromium browser ([Not recommended](https://en.wikipedia.org/wiki/Brave_(web_browser)#Critical_reception))
+- [Brave](https://brave.com/download/) - Privacy focused chromium browser ( [Read this if you have privacy concerns about brave](https://theprivacyguide1.github.io/why_brave_isnt_bad.html) )
 - [Tor Browser 🌟](https://www.torproject.org/) - Defend yourself against tracking and surveillance. Circumvent censorship
 
 # Password Manager
