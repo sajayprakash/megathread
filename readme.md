@@ -32,11 +32,11 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 
 
 # Web Browsers
-- [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - A lightweight approach to removing Google web service dependency
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - A fast, lightweight, privacy-focused browser that works across all your devices
-- [Librewolf 🌟](https://librewolf-community.gitlab.io/) - Privacy focused Firefox fork
-- [Brave](https://brave.com/download/) - Privacy focused chromium browser ( [Read this if you have privacy concerns about brave](https://theprivacyguide1.github.io/why_brave_isnt_bad.html) )
-- [Tor Browser 🌟](https://www.torproject.org/) - Defend yourself against tracking and surveillance. Circumvent censorship
+- [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - A lightweight approach to removing Google web service dependency (**Not recommended - Can be difficult to update & add extensions**)
+- [Firefox 🌟](https://www.mozilla.org/en-US/firefox/new/) - A fast, lightweight, privacy-focused browser that works across all your devices (**Requires Hardening for better privacy**)
+- [Librewolf](https://librewolf-community.gitlab.io/) - Privacy focused Firefox fork
+- [Brave 🌟](https://brave.com/download/) - Privacy focused chromium browser ( [Watch this if you have concerns about brave](https://www.youtube.com/watch?v=qkJGF3syQy4) )
+- [Tor Browser 🌟](https://www.torproject.org/) - Defend yourself against tracking and surveillance. Circumvent censorship (**Best browser for privacy but may not be ideal for daily use**)
 
 # Password Manager
 - [Bitwarden 🌟](https://bitwarden.com/) - A secure and free password manager for all of your devices
