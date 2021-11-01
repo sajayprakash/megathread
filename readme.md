@@ -127,7 +127,7 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [qBittorrent 🌟](https://www.qbittorrent.org/) - An open-source software alternative to µTorrent
 - [Transmission](https://transmissionbt.com/) - Simple and lightweight open-source torrent client
 
-## Anime/Movie
+## Video Streaming Sites
 
 - [piracy.moe 🌟](https://piracy.moe/) - Index for Anime and Manga sites/apps
 - [dopebox.net](https://www.dopebox.net/home) - Watch Free Movies Online
@@ -136,6 +136,7 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [GoGo Anime](https://gogoanime.vc/) - Popular website for watching anime
 - [Animxplay.to 🌟](https://animixplay.to/) - Watch HD Anime for Free
 - [AnymeX (Android)](https://bin.privacytools.io/?82ebd2deb860c1af#FeVTRfT2EKrusr2HmoJC9aTKJxry1Tug83iv1wSCf6pA) - Uploaded APK to my [mega.nz](https://mega.nz/) drive (Beta v11.990)
+- [Kemono.party](https://kemono.party/artists) - View paywalled content from sites like Patreon
 
 ## Software
 - [IDM trial reset](https://github.com/J2TeaM/idm-trial-reset) - IDM unlimited trial
