@@ -169,7 +169,6 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [andOTP](https://f-droid.org/en/packages/org.shadowice.flocke.andotp/) - andOTP is a free and open source two-factor authentication App for Android 4.4+
 
 ## Anime/Manga
-- [AnymeX (Android) 🌟](https://bin.privacytools.io/?82ebd2deb860c1af#FeVTRfT2EKrusr2HmoJC9aTKJxry1Tug83iv1wSCf6pA) - Open Source Anime app (discontinued but this APK still works)
 - [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Open Source Manga app
 - [TachiyomiJ2K 🌟](https://github.com/Jays2Kings/tachiyomiJ2K) - Tachiyomi fork with a much better ui
 - [Aniyomi](https://github.com/jmir1/aniyomi) - Aniyomi is an unofficial fork of the free and open source manga reader Tachiyomi that adds anime capabilities!
