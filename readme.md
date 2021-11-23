@@ -135,7 +135,6 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [Nyaa.si 🌟](https://nyaa.si) - Anime torrent site (**If blocked by ISP use Tor, [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) or a VPN**)
 - [GoGo Anime](https://gogoanime.vc/) - Popular website for watching anime
 - [Animxplay.to 🌟](https://animixplay.to/) - Watch HD Anime for Free
-- [AnymeX (Android)](https://bin.privacytools.io/?82ebd2deb860c1af#FeVTRfT2EKrusr2HmoJC9aTKJxry1Tug83iv1wSCf6pA) - Uploaded APK to my [mega.nz](https://mega.nz/) drive (Beta v11.990)
 - [Kemono.party](https://kemono.party/artists) - View paywalled content from sites like Patreon
 
 ## Software
