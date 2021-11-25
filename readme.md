@@ -39,7 +39,7 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [Tor Browser 🌟](https://www.torproject.org/) - Defend yourself against tracking and surveillance. Circumvent censorship (**Best browser for privacy but may not be ideal for daily use**)
 
 ## Browser Hardening
-[Arkenfox user.js 🌟](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening
+- [Arkenfox user.js 🌟](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening
 
 # Password Manager
 - [Bitwarden 🌟](https://bitwarden.com/) - A secure and free password manager for all of your devices
