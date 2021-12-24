@@ -2,15 +2,16 @@
 
  - [Emoji](#emoji)
  - [Useful Megathreads & Guides](#useful-megathreads-amp-guides)
- - [Password Manager](#password-manager-1)
- - [Web Browsers](#web-browsers-1)
- - [Search Engines](#search-engines-1)
- - [Email](#email-1)
- - [Operating Systems](#operating-systems-1)
- - [Download Managers](#download-managers-1)
+ - [Password Manager](#password-manager)
+ - [Web Browsers](#web-browsers)
+ - [Search Engines](#search-engines)
+ - [Email](#email)
+ - [Operating Systems](#operating-systems)
+ - [Download Managers](#download-managers)
  - [Piracy](#piracy)
-
+ - [Miscellaneous](#miscellaneous)
 - Android
+ - [Operating System](#operating-system)
  - [Video/Music Streaming](#videomusic-streaming)
  - [App Stores](#app-stores)
  - [Two Factor Autheticators](#two-factor-authenticator)

@@ -69,15 +69,8 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [Simplelogin](https://simplelogin.io/) -  Create email aliases
 - [Temp Mail](https://temp-mail.org/) - Disposable mails
 
-# Misc
-- [lingva-translate](https://lingva.ml/) - a Free and Open Source Alternative front-end for Google Translate
-- [VirusTotal.com](https://www.virustotal.com/) - Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community 
-- [kutt.it](https://kutt.it/) - An open source modern URL shortener
-- [NoScript Whitelist](https://github.com/crypdick/NoScript-Crowdsourced-Whitelist-Blacklist) - A global domain database for NoScript 
-
 # Operating Systems
 ## PC
-
 ### Windows
 - [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) - Windows 11 is a major version of the Windows NT operating system and is the successor to Windows 10 
 - [Windows 10](https://www.microsoft.com/en-us/software-download/windows10) - Windows 10 is a major release of the Windows NT operating system developed by Microsoft.
@@ -96,14 +89,15 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [Qubes OS](https://www.qubes-os.org/) - A reasonably secure operating system
 - [Arch linux 🌟](https://archlinux.org/) (**Not recommended for beginners**) - A lightweight and flexible Linux® distribution that tries to keep it simple
 
-## Mobile
-- [Calyx OS 🌟(Only for Google Pixel and Xiaomi Mi A2)](https://calyxos.org/) - An open source Android mobile operating system that puts privacy and security into the hands of everyday users. 
-- [Lineage OS](https://lineageos.org/) - A free and open-source operating system for various devices, based on the Android mobile platform
-- [Graphene OS (Only for Google Pixel)](https://grapheneos.org/) - An open source privacy and security focused mobile OS
-
 # Download Managers
 - [JDownloader2](https://jdownloader.org/jdownloader2) - A free, open-source download management tool
 - [Internet Download Manager](https://www.internetdownloadmanager.com/) ([unlimited trial reset](#piracy)) - Download Manager (**Not open source**)
+
+# Miscellaneous
+- [lingva-translate](https://lingva.ml/) - a Free and Open Source Alternative front-end for Google Translate
+- [VirusTotal.com](https://www.virustotal.com/) - Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community 
+- [kutt.it](https://kutt.it/) - An open source modern URL shortener
+- [NoScript Whitelist](https://github.com/crypdick/NoScript-Crowdsourced-Whitelist-Blacklist) - A global domain database for NoScript 
 
 # Piracy
 
@@ -137,6 +131,11 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [Skidrow repacks](https://skidrowrepacks.com/) - Repacks from popular repacker SKIDROW
 
 # Android 
+## Operating System
+
+- [Calyx OS 🌟(Only for Google Pixel and Xiaomi Mi A2)](https://calyxos.org/) - An open source Android mobile operating system that puts privacy and security into the hands of everyday users. 
+- [Lineage OS](https://lineageos.org/) - A free and open-source operating system for various devices, based on the Android mobile platform
+- [Graphene OS (Only for Google Pixel)](https://grapheneos.org/) - An open source privacy and security focused mobile OS
 
 ## Video/Music Streaming
 - [Blackhole 🌟](https://github.com/Sangwan5688/BlackHole) - Open Source Music client (JioSaavn,Spotify,Youtube Music)
