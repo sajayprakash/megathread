@@ -1,7 +1,12 @@
- If you come across dead links, please report them by creating an [issue](https://github.com/sajayprakash/megathread/issues/new/).
+ # Issues and Suggestions
+ If you come across dead links or any misinformation, please report them by creating an [issue](https://github.com/sajayprakash/megathread/issues/new/).
+
+ If you have any suggestions and recommendations, feel free to [open a request ](https://github.com/sajayprakash/megathread/issues/new/).
+
+
 
 # Emoji
-Some items in this list has a 🌟 icon next to them. Items with a 🌟 represent my top/favourite pick(s) for that category
+Some items in this list has a 🌟 icon next to them. Items with a 🌟 represent **my** top/favourite pick(s) for that category.
 
 # Useful Megathreads & Guides
 - [privacyguides.org](https://www.privacyguides.org/) - The guide to restoring your online privacy. Formerly known as privacytools.io
@@ -72,22 +77,25 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 # Operating Systems
 ## PC
 ### Windows
+Note: No amount of debloating and privacy tweaks will change the fact that windows is a proprietary operating system. Switching to a free and open-source alternative like Linux is the best choice.
+
 - [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) - Windows 11 is a major version of the Windows NT operating system and is the successor to Windows 10 
 - [Windows 10](https://www.microsoft.com/en-us/software-download/windows10) - Windows 10 is a major release of the Windows NT operating system developed by Microsoft.
-- [Win10 Smart Debloat 🌟](https://github.com/LeDragoX/Win10SmartDebloat) - Debloat and Improve Security/Performance on Windows 10/+
-- [Windows 10 Privacy Guide 🌟](https://github.com/adolfintel/Windows10-Privacy) - Guide to prevent Windows 10 from sending your data to Microsoft
+- [Win10 Smart Debloat](https://github.com/LeDragoX/Win10SmartDebloat) - Debloat and Improve Security/Performance on Windows 10/+
+- [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) - Guide to prevent Windows 10 from sending your data to Microsoft
 - [Shutup10](https://www.oo-software.com/en/shutup10) - Free antispy tool for Windows 10
 - [Windows Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness
 - [Simplewall](https://github.com/henrypp/simplewall) - Firewall for Windows
 
 ### Linux 
-
+<small>[I use arch btw ;)](https://github.com/sajayprakash/dotfiles)</small>
 - [Fedora 🌟](https://getfedora.org/) - Fedora is a Linux distribution developed by the community-supported Fedora Project
-- [Linux Mint](https://linuxmint.com/) - Linux Mint is a community-driven Linux distribution based on Ubuntu, bundled with a variety of free and open-source applications.
-- [Pop!_OS 🌟](https://pop.system76.com/) - Pop!_OS is a free and open-source Linux distribution, based upon Ubuntu, featuring a custom GNOME desktop
+- [Linux Mint 🌟](https://linuxmint.com/) - Linux Mint is a community-driven Linux distribution based on Ubuntu, bundled with a variety of free and open-source applications.
+- [Pop!_OS](https://pop.system76.com/) - Pop!_OS is a free and open-source Linux distribution, based upon Ubuntu, featuring a custom GNOME desktop
 - [Tails](https://tails.boum.org/) (**Live operating system for using the Tor/Onion network**) - Tails is a portable operating system that protects against surveillance and censorship. 
 - [Qubes OS](https://www.qubes-os.org/) - A reasonably secure operating system
 - [Arch linux 🌟](https://archlinux.org/) (**Not recommended for beginners**) - A lightweight and flexible Linux® distribution that tries to keep it simple
+- [ArcoLinux 🌟](https://www.arcolinux.info/) - A beginner friendly Arch based Linux operating system
 
 # Download Managers
 - [JDownloader2](https://jdownloader.org/jdownloader2) - A free, open-source download management tool
@@ -140,9 +148,10 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 ## Video/Music Streaming
 - [Blackhole 🌟](https://github.com/Sangwan5688/BlackHole) - Open Source Music client (JioSaavn,Spotify,Youtube Music)
 - [Youtube Vanced ](https://vancedapp.com/) - Modded YouTube client
-- [Blokada (Ad blocker for Android and ios)](https://blokada.org/)
-- [xManager](https://github.com/xManager-v2/xManager-Spotify) - Modded Spotify
+- [Blokada](https://blokada.org/) - A popular ad blocker and privacy app for Android and iOS
+- [xManager](https://github.com/xManager-v2/xManager-Spotify) - Modded Spotify Client
 - [Newpipe 🌟](https://newpipe.net/) - Open Source YouTube client
+- [AntennaPod 🌟](https://antennapod.org/) - Free and open source Podcast Player
 
 ## App Stores
 
@@ -156,7 +165,7 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 ## Anime/Manga
 - [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Open Source Manga app
 - [TachiyomiJ2K 🌟](https://github.com/Jays2Kings/tachiyomiJ2K) - Tachiyomi fork with a much better ui
-- [Aniyomi](https://github.com/jmir1/aniyomi) - Aniyomi is an unofficial fork of the free and open source manga reader Tachiyomi that adds anime capabilities!
+- [Aniyomi](https://github.com/jmir1/aniyomi) - Aniyomi is an unofficial fork of the free and open source manga reader Tachiyomi that adds anime capabilities
 
 ## Social Media Apps
 - [Infinity for Reddit 🌟](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/) - Open source Reddit client
@@ -205,6 +214,9 @@ Based in Switzerland
 - [VLC 🌟](https://f-droid.org/en/packages/org.videolan.vlc/) - The best video and music player. Fast and “just works”, plays any file
 - [Open Scan](https://apt.izzysoft.de/fdroid/index/apk/com.ethereal.openscan) - An open source app that enables users to scan hardcopies of documents or notes and convert it to a PDF file
 - [Simple Mobile Tools 🌟](https://www.simplemobiletools.com/) - A group of simple, open source Android apps without ads and unnecessary permissions, with customizable widgets
+-
+[Olauncher 🌟](https://f-droid.org/en/packages/app.olauncher/)- Minimal launcher app with daily new wallpaper
+
 
 ## License
 [![logo](_images/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
