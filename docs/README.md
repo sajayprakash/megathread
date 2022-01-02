@@ -38,8 +38,8 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [Arkenfox user.js 🌟](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening
 
 ## Browser Extensions
-### Search in [Firefox add-ons](https://addons.mozilla.org/en-US/firefox/extensions/) or [Chrome Web Store](https://chrome.google.com/webstore/category/extensions)
-#### Firefox only addons can be added to its forks on Mobile and PC
+### Search in [ addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/extensions/) or [Chrome Web Store](https://chrome.google.com/webstore/category/extensions)
+#### Firefox addons can be added to its forks on Mobile and PC
 - [Bitwarden 🌟](https://bitwarden.com) - A secure and free password manager for all of your devices
 - [Ublock Origin 🌟](https://ublockorigin.com/) - Free, open-source ad content blocker
 - [NoScript Security Suite 🌟](https://noscript.net/) - Allow active content to run only from sites you trust, and protect yourself against XSS and Clickjacking attacks, "Spectre", "Meltdown" and other JavaScript exploits
@@ -116,8 +116,9 @@ Note: No amount of debloating and privacy tweaks will change the fact that windo
 - [qBittorrent 🌟](https://www.qbittorrent.org/) - An open-source software alternative to µTorrent
 - [Transmission](https://transmissionbt.com/) - Simple and lightweight open-source torrent client
 
-## Video Streaming Sites
+## Media Streaming/DDL sites
 
+### Anime
 - [piracy.moe 🌟](https://piracy.moe/) - Index for Anime and Manga sites/apps
 - [dopebox.net](https://www.dopebox.net/home) - Watch Free Movies Online
 - [/r/animepiracy](https://www.reddit.com/r/animepiracy/) - This sub is about streaming and torrent websites for anime
@@ -125,6 +126,9 @@ Note: No amount of debloating and privacy tweaks will change the fact that windo
 - [GoGo Anime](https://gogoanime.vc/) - Popular website for watching anime
 - [Animxplay.to 🌟](https://animixplay.to/) - Watch HD Anime for Free
 - [Kemono.party](https://kemono.party/artists) - View paywalled content from sites like Patreon
+
+### Music & Audiobooks
+- [Audiobookbay](http://audiobookbay.nl/) - Download unabridged audiobook for free or share your audio books
 
 ## Software
 - [IDM trial reset](https://github.com/J2TeaM/idm-trial-reset) - IDM unlimited trial
