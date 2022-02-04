@@ -16,10 +16,15 @@
       name: 'Megathread',
       coverpage: true,
       repo: '',
-      loadSidebar: true
+      loadSidebar: true,
+      timeUpdater: {
+        text: "<div align='center'> This site was last updated on: {docsify-updated} </div>",
+        formatUpdated: "{DD}/{MM}/{YYYY}",
+      },
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-updated@1/src/time-updater.min.js"></script>
  </body>
 </html>
