@@ -31,11 +31,12 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - A lightweight approach to removing Google web service dependency (**Not recommended - Can be difficult to update & add extensions**)
 - [Firefox 🌟](https://www.mozilla.org/en-US/firefox/new/) - A fast, lightweight, privacy-focused browser that works across all your devices ([Requires Hardening for better privacy](#browser-hardening))
 - [Librewolf](https://librewolf-community.gitlab.io/) - Privacy focused Firefox fork
-- [Brave 🌟](https://brave.com/download/) - Privacy focused chromium browser ( [Watch this if you have concerns about brave](https://www.youtube.com/watch?v=qkJGF3syQy4) )
+- [Brave 🌟](https://brave.com/download/) - Privacy focused chromium browser
 - [Tor Browser 🌟](https://www.torproject.org/) - Defend yourself against tracking and surveillance. Circumvent censorship (**Best browser for privacy but may not be ideal for daily use**)
 
 ## Browser Hardening
 - [Arkenfox user.js 🌟](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening
+- [My firefox user.js](https://gist.github.com/sajayprakash/895d8369222eb1fe98e130a7549c50d1) - Custom user.js that I use
 
 ## Browser Extensions
 ### Search in [ addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/extensions/) or [Chrome Web Store](https://chrome.google.com/webstore/category/extensions)
@@ -53,15 +54,6 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [User-Agent Switcher and Manager](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/) - Spoof websites trying to gather information about your web navigation—like your browser type and operating system
 - [Terms of Service; Didn't Read](https://tosdr.org/) - Provides TL;DR for Terms of Service
 - ~~[HTTPS Everywhere](https://www.eff.org/https-everywhere)~~ ([Enable `HTTPS-Only Mode` in all browsers](https://www.eff.org/deeplinks/2021/09/https-actually-everywhere))
-
-## Userscripts (Tampermonkey)
-- [Anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) - some websites prevent you from copying text. this script bypass it
-
-- [Anti-Adblock Killer 🌟](https://github.com/reek/anti-adblock-killer#anti-adblock-killer--reek) - Helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable
-
-- [Login reminder popup remover 🌟](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover) - Removes the nagging login popups and banners from mobile and desktop versions of Facebook, Instagram, Reddit, Twitter, Quora, Ask.fm, VK, Pinterest and from the mobile version of Youtube
-
-- [Pinterest without registration](https://greasyfork.org/en/scripts/6325-pinterest-without-registration) - Browse Pinterest without login/registration
 
 # Search Engines
 - [Duckduckgo 🌟](https://duckduckgo.com/) - A privacy respecting search engine
