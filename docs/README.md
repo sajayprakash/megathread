@@ -13,10 +13,10 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - [r/Piracy](https://www.reddit.com/r/Piracy/wiki/megathread#wiki_megathread) - Piracy megathread
 - [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) - Another piracy megathread
 - [Roms Megathread](https://pastelink.net/24dhn) - Console Roms Megathread
-- [awesome-piracy by Igglybuff](https://github.com/Igglybuff/awesome-piracy) - List of awesome warez and piracy links 
+- [awesome-piracy by Igglybuff](https://github.com/Igglybuff/awesome-piracy) - List of awesome warez and piracy links
 - [r/CemuPiracy](https://www.reddit.com/r/CemuPiracy/wiki/tutorial#wiki_things_you_need) - Cemu piracy megathread
-- [Open Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps) - Collaborative list of open-source iOS apps 
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - List of Free Software network services and web applications which can be hosted on your own servers 
+- [Open Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps) - Collaborative list of open-source iOS apps
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - List of Free Software network services and web applications which can be hosted on your own servers
 - [awesome-anime-sources by anshumanv](https://github.com/anshumanv/awesome-anime-sources) - Curated list of everything related to anime
 - [Userscripts by darkred](https://github.com/darkred/Userscripts) - Some useful userscripts
 - [FOSS Apps List](https://gitlab.com/divested-mobile/foss_apps_list) - A list of recommended FOSS apps available via F-Droid
@@ -71,7 +71,7 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 ### Windows
 Note: No amount of debloating and privacy tweaks will change the fact that windows is a proprietary operating system. Switching to a free and open-source alternative like Linux is the best choice.
 
-- [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) - Windows 11 is a major version of the Windows NT operating system and is the successor to Windows 10 
+- [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) - Windows 11 is a major version of the Windows NT operating system and is the successor to Windows 10
 - [Windows 10](https://www.microsoft.com/en-us/software-download/windows10) - Windows 10 is a major release of the Windows NT operating system developed by Microsoft.
 - [Win10 Smart Debloat](https://github.com/LeDragoX/Win10SmartDebloat) - Debloat and Improve Security/Performance on Windows 10/+
 - [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) - Guide to prevent Windows 10 from sending your data to Microsoft
@@ -79,12 +79,12 @@ Note: No amount of debloating and privacy tweaks will change the fact that windo
 - [Windows Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness
 - [Simplewall](https://github.com/henrypp/simplewall) - Firewall for Windows
 
-### Linux 
+### Linux
 <small>[I use arch btw ;)](https://github.com/sajayprakash/dotfiles)</small>
 - [Fedora 🌟](https://getfedora.org/) - Fedora is a Linux distribution developed by the community-supported Fedora Project
 - [Linux Mint 🌟](https://linuxmint.com/) - Linux Mint is a community-driven Linux distribution based on Ubuntu, bundled with a variety of free and open-source applications.
 - [Pop!_OS](https://pop.system76.com/) - Pop!_OS is a free and open-source Linux distribution, based upon Ubuntu, featuring a custom GNOME desktop
-- [Tails](https://tails.boum.org/) (**Live operating system for using the Tor/Onion network**) - Tails is a portable operating system that protects against surveillance and censorship. 
+- [Tails](https://tails.boum.org/) (**Live operating system for using the Tor/Onion network**) - Tails is a portable operating system that protects against surveillance and censorship.
 - [Qubes OS](https://www.qubes-os.org/) - A reasonably secure operating system
 - [Arch linux 🌟](https://archlinux.org/) (**Not recommended for beginners**) - A lightweight and flexible Linux® distribution that tries to keep it simple
 - [ArcoLinux 🌟](https://www.arcolinux.info/) - A beginner friendly Arch based Linux operating system
@@ -95,9 +95,9 @@ Note: No amount of debloating and privacy tweaks will change the fact that windo
 
 # Miscellaneous
 - [lingva-translate](https://lingva.ml/) - a Free and Open Source Alternative front-end for Google Translate
-- [VirusTotal.com](https://www.virustotal.com/) - Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community 
+- [VirusTotal.com](https://www.virustotal.com/) - Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community
 - [kutt.it](https://kutt.it/) - An open source modern URL shortener
-- [NoScript Whitelist](https://github.com/crypdick/NoScript-Crowdsourced-Whitelist-Blacklist) - A global domain database for NoScript 
+- [NoScript Whitelist](https://github.com/crypdick/NoScript-Crowdsourced-Whitelist-Blacklist) - A global domain database for NoScript
 
 # Piracy
 
@@ -125,7 +125,7 @@ Note: No amount of debloating and privacy tweaks will change the fact that windo
 ## Software
 - [IDM trial reset](https://github.com/J2TeaM/idm-trial-reset) - IDM unlimited trial
 - [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Spotify ad blocker (PC)
-- [SpotiFlyer 🌟](https://github.com/Shabinder/SpotiFlyer/) - Multiplatform Music Downloader, Supports Spotify / Gaana / Youtube Music / Jio Saavn 
+- [SpotiFlyer 🌟](https://github.com/Shabinder/SpotiFlyer/) - Multiplatform Music Downloader, Supports Spotify / Gaana / Youtube Music / Jio Saavn
 
 ## Windows Games sites   
 - [/r/CrackWatch](https://reddit.com/r/CrackWatch/) CrackWatch Subreddit
@@ -134,16 +134,15 @@ Note: No amount of debloating and privacy tweaks will change the fact that windo
 - [Fitgirl repacks](https://fitgirl-repacks.site/) - Popular DDL and torrent site for game repacks
 - [Skidrow repacks](https://skidrowrepacks.com/) - Repacks from popular repacker SKIDROW
 
-# Android 
+# Android
 ## Operating System
 
-- [Calyx OS 🌟(Only for Google Pixel and Xiaomi Mi A2)](https://calyxos.org/) - An open source Android mobile operating system that puts privacy and security into the hands of everyday users. 
+- [Calyx OS 🌟(Only for Google Pixel and Xiaomi Mi A2)](https://calyxos.org/) - An open source Android mobile operating system that puts privacy and security into the hands of everyday users.
 - [Lineage OS](https://lineageos.org/) - A free and open-source operating system for various devices, based on the Android mobile platform
 - [Graphene OS (Only for Google Pixel)](https://grapheneos.org/) - An open source privacy and security focused mobile OS
 
 ## Video/Music Streaming
 - [Blackhole 🌟](https://github.com/Sangwan5688/BlackHole) - Open Source Music client (JioSaavn,Spotify,Youtube Music)
-- [Youtube Vanced ](https://vancedapp.com/) - Modded YouTube client
 - [Blokada](https://blokada.org/) - A popular ad blocker and privacy app for Android and iOS
 - [xManager](https://github.com/xManager-v2/xManager-Spotify) - Modded Spotify Client
 - [Newpipe 🌟](https://newpipe.net/) - Open Source YouTube client
@@ -202,7 +201,7 @@ Based in Switzerland
 ### Most of these apps can be found on Fdroid and Aurora Store
 ### Add the [ IzzyOnDroid F-Droid Repository](https://apt.izzysoft.de/fdroid/)
 - [TrackerControl 🌟 ](https://f-droid.org/en/packages/net.kollnig.missioncontrol.fdroid/) - TrackerControl allows to monitor and control hidden data collection in apps
-- [Yet Another Call Blocker 🌟 ](https://f-droid.org/en/packages/dummydomain.yetanothercallblocker/) - Block unwanted calls effortlessly 
+- [Yet Another Call Blocker 🌟 ](https://f-droid.org/en/packages/dummydomain.yetanothercallblocker/) - Block unwanted calls effortlessly
 - [Openboard 🌟](https://f-droid.org/en/packages/org.dslul.openboard.inputmethod.latin/) - A 100% foss keyboard based on AOSP, with no dependency on Google binaries, that respects your privacy
 - [OsmAnd~](https://f-droid.org/en/packages/net.osmand.plus/) - A map and navigation application with access to the free, worldwide, and high-quality OpenStreetMap data
 - [QR and Barcode Scanner](https://f-droid.org/en/packages/com.example.barcodescanner/) - An open source  QR and barcode scanner with all the features you need
@@ -210,8 +209,7 @@ Based in Switzerland
 - [VLC 🌟](https://f-droid.org/en/packages/org.videolan.vlc/) - The best video and music player. Fast and “just works”, plays any file
 - [Open Scan](https://apt.izzysoft.de/fdroid/index/apk/com.ethereal.openscan) - An open source app that enables users to scan hardcopies of documents or notes and convert it to a PDF file
 - [Simple Mobile Tools 🌟](https://www.simplemobiletools.com/) - A group of simple, open source Android apps without ads and unnecessary permissions, with customizable widgets
--
-[Olauncher 🌟](https://f-droid.org/en/packages/app.olauncher/)- Minimal launcher app with daily new wallpaper
+- [Olauncher 🌟](https://f-droid.org/en/packages/app.olauncher/)- Minimal launcher app with daily new wallpaper
 
 
 ## License
@@ -219,4 +217,3 @@ Based in Switzerland
 
 To the extent possible under law, Sajay Prakash has waived all copyright and
 related or neighboring rights to this work.
-
