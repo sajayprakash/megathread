@@ -80,7 +80,7 @@ Note: No amount of debloating and privacy tweaks will change the fact that windo
 - [Simplewall](https://github.com/henrypp/simplewall) - Firewall for Windows
 
 ### Linux
-<small>[I use arch btw ;)](https://github.com/sajayprakash/dotfiles)</small>
+<small>[I use arch btw ;)](https://github.com/sajayprakash/.dotfiles)</small>
 - [Fedora 🌟](https://getfedora.org/) - Fedora is a Linux distribution developed by the community-supported Fedora Project
 - [Linux Mint 🌟](https://linuxmint.com/) - Linux Mint is a community-driven Linux distribution based on Ubuntu, bundled with a variety of free and open-source applications.
 - [Pop!_OS](https://pop.system76.com/) - Pop!_OS is a free and open-source Linux distribution, based upon Ubuntu, featuring a custom GNOME desktop
