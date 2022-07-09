@@ -56,8 +56,8 @@ Some items in this list has a 🌟 icon next to them. Items with a 🌟 represen
 - ~~[HTTPS Everywhere](https://www.eff.org/https-everywhere)~~ ([Enable `HTTPS-Only Mode` in all browsers](https://www.eff.org/deeplinks/2021/09/https-actually-everywhere))
 
 # Search Engines
-- [Duckduckgo 🌟](https://duckduckgo.com/) - A privacy respecting search engine
-- [Searx](https://searx.me/) - A Privacy-respecting metasearch engine
+- [Duckduckgo](https://duckduckgo.com/) - A privacy respecting search engine
+- [Searx 🌟](https://searx.tiekoetter.com/) - A Privacy-respecting metasearch engine
 - [Qwant](https://www.qwant.com/) - The search engine that respects your privacy
 
 # Email
