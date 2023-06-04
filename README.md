@@ -87,15 +87,15 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 
 ### Windows
 
-- [Windows 10 LTSC](https://isofiles.bd581e55.workers.dev/Windows%2010/Windows%2010%20Enterprise%20LTSC%202021/) - Slightly less bloated version of Windows 10.
-- [Chris Titus Tech WinUtil](https://github.com/ChrisTitusTech/winutil) - Chris' Windows 10 Utility. Use it to debloat and tweak Windows.
+- [Windows 10 LTSC 🌟](https://old.reddit.com/r/Windows10LTSC/wiki/acquisition) - Slightly less bloated version of Windows 10. It's not supposed to be used for personal use but I mean....😉😉
+- [Chris Titus Tech WinUtil 🌟](https://github.com/ChrisTitusTech/winutil) - Chris' Windows 10 Utility. Use it to debloat and tweak Windows. It's almost always a good idea to run it during each update of Windows. 
 - [Simplewall](https://github.com/henrypp/simplewall) - Firewall for Windows.
 
 ### Linux
 
 - [Arch linux 🌟](https://archlinux.org/) - A lightweight and flexible Linux® distribution that tries to keep it simple.
 - [Fedora](https://getfedora.org/) - Fedora is a Linux distribution developed by the community-supported Fedora Project.
-- [Linux Mint](https://linuxmint.com/) - Linux Mint is a community-driven Linux distribution based on Ubuntu, bundled with a variety of free and open-source applications.
+- [Linux Mint 🌟](https://linuxmint.com/) - Linux Mint is a community-driven Linux distribution based on Ubuntu, bundled with a variety of free and open-source applications.
 - [Tails](https://tails.boum.org/) (**Live operating system for using the Tor/Onion network**) - Tails is a portable operating system that protects against surveillance and censorship.
 - [Qubes OS](https://www.qubes-os.org/) - A reasonably secure operating system.
 
@@ -111,11 +111,12 @@ I do not condone piracy. These links are only for educational purposes.
 
 - [piracy.moe 🌟](https://piracy.moe/) - Index for Anime and Manga sites/apps.
 - [Nyaa.si 🌟](https://nyaa.si) - Anime torrent site. (**If blocked by ISP use Tor, [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) or a VPN**)
+- [Zoro.to](https://zoro.to/) - One of the best sites to watch anime online for Free.
 - [GoGo Anime](https://gogoanime.bid/) - Popular website for watching anime.
 
 ## Music & Audiobooks
 
-- [Audiobookbay](http://audiobookbay.nl/) - Download unabridged audiobook for free or share your audio books
+- [Audiobookbay](http://audiobookbay.nl/) - Download unabridged audiobook for free or share your audio books.
 - [SpotX](https://github.com/SpotX-CLI/SpotX-Win) - Spotify ad blocker (PC).
 - [SpotiFlyer 🌟](https://github.com/Shabinder/SpotiFlyer/) - Multiplatform Music Downloader.
 
@@ -131,7 +132,7 @@ For more piracy sites check out [awesome-piracy](https://github.com/Igglybuff/aw
 
 ## Custom Rom
 
-- [Graphene OS 🌟](https://grapheneos.org/) - An open source privacy and security focused mobile OS
+- [Graphene OS 🌟](https://grapheneos.org/) - An open source privacy and security focused mobile OS.
 - [Calyx OS](https://calyxos.org/) - An open source Android mobile operating system that puts privacy and security into the hands of everyday users.
 - [Lineage OS](https://lineageos.org/) - A free and open-source operating system for various devices, based on the Android mobile platform
 
