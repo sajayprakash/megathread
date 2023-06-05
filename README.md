@@ -116,7 +116,7 @@ I do not condone piracy. These links are only for educational purposes.
 
 ## Music & Audiobooks
 
-- [Audiobookbay](http://audiobookbay.nl/) - Download unabridged audiobook for free or share your audio books.
+- [Audiobookbay](https://audiobookbay.is/) - Download unabridged audiobook for free or share your audio books.
 - [SpotX](https://github.com/SpotX-CLI/SpotX-Win) - Spotify ad blocker (PC).
 - [SpotiFlyer 🌟](https://github.com/Shabinder/SpotiFlyer/) - Multiplatform Music Downloader.
 
