@@ -148,6 +148,7 @@ For more piracy sites check out [awesome-piracy](https://github.com/Igglybuff/aw
 
 - [Fdroid 🌟](https://f-droid.org/) - Find open source apps.
 - [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/) - Alternative to Google Play Store.
+- [Obtainium 🌟](https://github.com/ImranR98/Obtainium) - Get Android App Updates Directly From the Source.
 
 ## Two Factor Authenticator
 
