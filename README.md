@@ -94,8 +94,8 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 
 ### Linux
 
-- [Arch linux 🌟](https://archlinux.org/) - A lightweight and flexible Linux® distribution that tries to keep it simple.
-- [Fedora](https://getfedora.org/) - Fedora is a Linux distribution developed by the community-supported Fedora Project.
+- [Arch linux](https://archlinux.org/) - A lightweight and flexible Linux® distribution that tries to keep it simple.
+- [Debian 🌟](https://www.debian.org/) - A free and open source distribution that is the base for other major distros like Ubuntu, MX Linux, Linux Mint, etc. It is the second oldest actively maintained GNU/Linux distribution.
 - [Linux Mint 🌟](https://linuxmint.com/) - Linux Mint is a community-driven Linux distribution based on Ubuntu, bundled with a variety of free and open-source applications.
 - [Tails](https://tails.boum.org/) (**Live operating system for using the Tor/Onion network**) - Tails is a portable operating system that protects against surveillance and censorship.
 - [Qubes OS](https://www.qubes-os.org/) - A reasonably secure operating system.
