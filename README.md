@@ -162,8 +162,6 @@ For more piracy sites check out [awesome-piracy](https://github.com/Igglybuff/aw
 
 ## Social Media
 
-- [Infinity for Reddit 🌟](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/) - Open source Reddit client.
-- [Fritter](https://f-droid.org/en/packages/com.jonjomckay.fritter/) - Open source Twitter client.
 - [Signal 🌟](https://www.signal.org/) - An open source secure messenger, alternative to whatsapp.
 
 ## Password Manager
