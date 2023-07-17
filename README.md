@@ -112,8 +112,7 @@ I do not condone piracy. These links are only for educational purposes.
 
 - [piracy.moe 🌟](https://piracy.moe/) - Index for Anime and Manga sites/apps.
 - [Nyaa.si 🌟](https://nyaa.si) - Anime torrent site. (**If blocked by ISP use Tor, [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) or a VPN**)
-- [Zoro.to](https://zoro.to/) - One of the best sites to watch anime online for Free.
-- [GoGo Anime](https://gogoanime.bid/) - Popular website for watching anime.
+- [KickAssAnime](https://kickassanimes.info/) - A popular platform that allows users to watch anime online.
 
 ## Music & Audiobooks
 
