@@ -112,7 +112,6 @@ I do not condone piracy. These links are only for educational purposes.
 
 - [piracy.moe 🌟](https://piracy.moe/) - Index for Anime and Manga sites/apps.
 - [Nyaa.si 🌟](https://nyaa.si) - Anime torrent site. (**If blocked by ISP use Tor, [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) or a VPN**)
-- [KickAssAnime](https://kickassanimes.info/) - A popular platform that allows users to watch anime online.
 
 ## Music & Audiobooks
 
@@ -122,9 +121,7 @@ I do not condone piracy. These links are only for educational purposes.
 
 ## Games
 
-- [Steam Unlocked](https://steamunlocked.net/) - Steam games
-- [cs.rin.ru](https://cs.rin.ru/) - Popular gaming piracy forum
-- [Fitgirl repacks](https://fitgirl-repacks.site/) - Popular DDL and torrent site for game repacks
+[r/PiratedGames Megathread 🌟](https://rentry.org/pgames) - A popular megathread from the r/PiratedGames subreddit. It contains a list of trusted sites to download games from.
 
 For more piracy sites check out [awesome-piracy](https://github.com/Igglybuff/awesome-piracy)!
 
