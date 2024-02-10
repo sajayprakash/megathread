@@ -156,9 +156,7 @@ For more piracy sites check out [awesome-piracy](https://github.com/Igglybuff/aw
 
 ## Anime/Manga
 
-- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Open Source Manga app.
-- [TachiyomiJ2K 🌟](https://github.com/Jays2Kings/tachiyomiJ2K) - Tachiyomi fork with a much better ui.
-- [Aniyomi](https://github.com/jmir1/aniyomi) - Aniyomi is an unofficial fork of the free and open source manga reader Tachiyomi that adds anime capabilities.
+- [Mihon](https://github.com/mihonapp/mihon/) - Free and open source manga reader for Android
 
 ## Social Media
 
