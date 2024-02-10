@@ -177,8 +177,7 @@ To install apps from The Gaurdian Project (Tor browser and Orbot) you need to ad
 
 ## VPN and Proxy
 
-- [Orbot](https://guardianproject.info/apps/org.torproject.android/) - Orbot is a free proxy app that empowers other apps to use the internet more securely.
-- [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy.
+- [Mullvad](https://mullvad.net/en/) - Probably the only VPN provider I would recommend.
 
 ## Email
 
