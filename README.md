@@ -4,6 +4,7 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 
 # Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Internet](#internet)
   - [Web Browsers](#web-browsers)
   - [Browser Hardening](#browser-hardening)
@@ -17,12 +18,13 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
   - [PC](#pc)
     - [Windows](#windows)
     - [Linux](#linux)
-  - [Mobile](#custom-rom)
+  - [Mobile](#mobile)
+    - [Refer Custom Rom](#refer-custom-rom)
 - [Piracy](#piracy)
   - [Anime](#anime)
-  - [Music & Audiobooks](#music--audiobooks)
+  - [Music \& Audiobooks](#music--audiobooks)
   - [Games](#games)
-- [Mobile](#mobile)
+- [Mobile](#mobile-1)
   - [Custom Rom](#custom-rom)
   - [Video/Music Streaming](#videomusic-streaming)
   - [App Stores](#app-stores)
@@ -46,7 +48,7 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 
 ## Browser Hardening
 
-- [Arkenfox user.js 🌟](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening.
+- [Arkenfox user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening.
 - [BetterFox](https://github.com/yokoffing/BetterFox) - user.js file to harden Firefox and optimize privacy, security, and speed.
 
 ## Password Manager
@@ -89,7 +91,7 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 ### Windows
 
 - [Windows 10 LTSC 🌟](https://old.reddit.com/r/Windows10LTSC/wiki/acquisition) - Slightly less bloated version of Windows 10. It's not supposed to be used for personal use but I mean....😉😉
-- [Chris Titus Tech WinUtil 🌟](https://github.com/ChrisTitusTech/winutil) - Chris' Windows 10 Utility. Use it to debloat and tweak Windows. It's almost always a good idea to run it during each update of Windows. 
+- [Chris Titus Tech WinUtil 🌟](https://github.com/ChrisTitusTech/winutil) - Chris' Windows 10 Utility. Use it to debloat and tweak Windows. It's almost always a good idea to run it during each update of Windows.
 - [Simplewall](https://github.com/henrypp/simplewall) - Firewall for Windows.
 
 ### Linux
