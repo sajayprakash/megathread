@@ -90,9 +90,10 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 
 ### Windows
 
-- [Windows 10 LTSC 🌟](https://old.reddit.com/r/Windows10LTSC/wiki/acquisition) - Slightly less bloated version of Windows 10. It's not supposed to be used for personal use but I mean....😉😉
+- [Windows LTSC 🌟](https://massgrave.dev/windows_ltsc_links) - The best version of Windows. Use Microsoft Activation Scripts to activate.
 - [Chris Titus Tech WinUtil 🌟](https://github.com/ChrisTitusTech/winutil) - Chris' Windows 10 Utility. Use it to debloat and tweak Windows. It's almost always a good idea to run it during each update of Windows.
 - [Simplewall](https://github.com/henrypp/simplewall) - Firewall for Windows.
+- [Microsoft Activation Scripts](https://massgrave.dev) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 
 ### Linux
 
