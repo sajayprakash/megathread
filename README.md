@@ -116,9 +116,10 @@ I do not condone piracy. These links are only for educational purposes.
 - [Nyaa.si 🌟](https://nyaa.si) - Anime torrent site. (**If blocked by ISP use Tor, [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) or a VPN**)
 - [Anix.to](https://anix.to/) - The simplest way to watch anime online completely for free.
 
-## Music & Audiobooks
+## Music & Books/Audiobooks
 
 - [Audiobookbay](https://audiobookbay.is/) - Download unabridged audiobook for free or share your audio books.
+- [Z-Library](https://singlelogin.re/) - The world’s largest e-book library.
 - [SpotX](https://github.com/SpotX-CLI/SpotX-Win) - Spotify ad blocker (PC).
 - [SpotiFlyer 🌟](https://github.com/Shabinder/SpotiFlyer/) - Multiplatform Music Downloader.
 
