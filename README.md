@@ -140,7 +140,6 @@ For more piracy sites check out [awesome-piracy](https://github.com/Igglybuff/aw
 
 ## Video/Music Streaming
 
-- [Blackhole 🌟](https://github.com/Sangwan5688/BlackHole) - Open Source Music client (JioSaavn,Spotify,Youtube Music).
 - [Newpipe 🌟](https://newpipe.net/) - Open Source YouTube client.
 - [AntennaPod](https://antennapod.org/) - Free and open source Podcast Player.
 - [xManager](https://github.com/xManager-v2/xManager-Spotify) - Modded Spotify Client.
