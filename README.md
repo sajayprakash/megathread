@@ -113,10 +113,9 @@ I do not condone piracy. These links are only for educational purposes.
 
 ## Anime
 
-- [piracy.moe 🌟](https://piracy.moe/) - Index for Anime and Manga sites/apps.
+- [theindex.moe 🌟](https://theindex.moe/) - Index for Anime and Manga sites/apps.
 - [Nyaa.si 🌟](https://nyaa.si) - Anime torrent site. (**If blocked by ISP use Tor, [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) or a VPN**)
-- [Anix.to](https://anix.to/) - The simplest way to watch anime online completely for free.
-
+- 
 ## Music & Books/Audiobooks
 
 - [Audiobookbay](https://audiobookbay.is/) - Download unabridged audiobook for free or share your audio books.
