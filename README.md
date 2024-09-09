@@ -120,8 +120,8 @@ I do not condone piracy. These links are only for educational purposes.
 
 - [Audiobookbay](https://audiobookbay.is/) - Download unabridged audiobook for free or share your audio books.
 - [Z-Library](https://singlelogin.re/) - The world’s largest e-book library.
-- [SpotX](https://github.com/SpotX-CLI/SpotX-Win) - Spotify ad blocker (PC).
-- [SpotiFlyer 🌟](https://github.com/Shabinder/SpotiFlyer/) - Multiplatform Music Downloader.
+- [SpotX 🌟](https://github.com/SpotX-CLI/SpotX-Win) - Spotify ad blocker (PC).
+- [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer/) - Multiplatform Music Downloader.
 
 ## Games
 
