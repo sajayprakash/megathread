@@ -47,6 +47,7 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 ## Browser Hardening
 
 >  ⚠️ This is more advanced, it would break some sites, so I don't recommend hardening anymore. Just use the [recommended browser extensions](#browser-extensions)
+
 - [Arkenfox user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening.
 - [BetterFox](https://github.com/yokoffing/BetterFox) - user.js file to harden Firefox and optimize privacy, security, and speed.
 
