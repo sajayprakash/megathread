@@ -137,7 +137,7 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 
 ## Anime/Manga
 
-- [Mihon](https://github.com/mihonapp/mihon/) - Free and open source manga reader for Android
+- [Mihon](https://github.com/mihonapp/mihon/) - Free and open source manga reader for Android.
 
 ## Social Media
 
@@ -158,7 +158,13 @@ To install apps from The Gaurdian Project (Tor browser and Orbot) you need to ad
 
 ## VPN and Proxy
 
+> I would recommend self-hosting your own VPN on a VPS or a home server to avoid trusting a third-party VPN provider.
+
 - [Mullvad](https://mullvad.net/en/) - Probably the only VPN provider I would recommend.
+
+- [Wireguard 🌟](https://www.wireguard.com/) - Extremely simple yet fast and modern VPN. Easy to self host, also check out [PiVPN](https://www.pivpn.io/) for a installation script.
+
+- [Tailscale 🌟](https://tailscale.com/) - Zero config VPN, I use this to remotely access my home server despite being under a [ISP CGNAT](https://en.wikipedia.org/wiki/Carrier-grade_NAT).
 
 ## Email
 
