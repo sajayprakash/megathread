@@ -132,8 +132,8 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 
 ## Two Factor Authenticator
 
-- [Aegis 🌟](https://f-droid.org/en/packages/com.beemdevelopment.aegis/) - a free, secure and open source app to manage your 2-step verification tokens for your online services.
-- [andOTP](https://f-droid.org/en/packages/org.shadowice.flocke.andotp/) - andOTP is a free and open source two-factor authentication App.
+- [Aegis](https://f-droid.org/en/packages/com.beemdevelopment.aegis/) - a free, secure and open source app to manage your 2-step verification tokens for your online services.
+- [Ente Auth 🌟](https://ente.io/auth/) - End to end, open source and cross-platform 2FA authenticator.
 
 ## Anime/Manga
 
