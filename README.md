@@ -109,25 +109,9 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 
 # Piracy
 
-I do not condone piracy. These links are only for educational purposes.
+> ℹ️ I do not condone piracy. These links are only for educational purposes.
 
-## Anime
-
-- [theindex.moe 🌟](https://theindex.moe/) - Index for Anime and Manga sites/apps.
-- [Nyaa.si 🌟](https://nyaa.si) - Anime torrent site. (**If blocked by ISP use Tor, [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) or a VPN**)
-- 
-## Music & Books/Audiobooks
-
-- [Audiobookbay](https://audiobookbay.is/) - Download unabridged audiobook for free or share your audio books.
-- [Z-Library](https://singlelogin.re/) - The world’s largest e-book library.
-- [SpotX 🌟](https://github.com/SpotX-CLI/SpotX-Win) - Spotify ad blocker (PC).
-- [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer/) - Multiplatform Music Downloader.
-
-## Games
-
-[r/PiratedGames Megathread 🌟](https://rentry.org/pgames) - A popular megathread from the r/PiratedGames subreddit. It contains a list of trusted sites to download games from.
-
-For more piracy sites check out [awesome-piracy](https://github.com/Igglybuff/awesome-piracy)!
+- [r/Piracy Megathread 🌟](https://old.reddit.com/r/Piracy/wiki/megathread) - A very carefully curated list of sites for anything Piracy related. Probably the only site you will need to bookmark.
 
 # Mobile
 
