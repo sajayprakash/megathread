@@ -39,12 +39,14 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 ## Web Browsers
 
 - [Firefox 🌟](https://www.mozilla.org/en-US/firefox/new/) - A fast, lightweight, privacy-focused browser that works across all your devices.
+- [Tor Browser 🌟](https://www.torproject.org/) - Defend yourself against tracking and surveillance. Circumvent censorship.
+- [Zen Browser](https://zen-browser.app/) - Firefox fork that is beautifully designed, privacy-focused, and packed with features.
 - [Librewolf](https://librewolf.net/) - Privacy focused Firefox fork.
 - [Brave](https://brave.com/download/) - Privacy focused chromium browser.
-- [Tor Browser 🌟](https://www.torproject.org/) - Defend yourself against tracking and surveillance. Circumvent censorship.
 
 ## Browser Hardening
 
+>  ⚠️ This is more advanced, it would break some sites, so I don't recommend hardening anymore. Just use the [recommended browser extensions](#browser-extensions)
 - [Arkenfox user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening.
 - [BetterFox](https://github.com/yokoffing/BetterFox) - user.js file to harden Firefox and optimize privacy, security, and speed.
 
@@ -55,8 +57,10 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 
 ## Browser Extensions
 
+> ℹ️ The lesser number of extensions you have the better it is for privacy and security. It is easier to fingerprint users with many extensions.
+
 - [Bitwarden 🌟](https://bitwarden.com) - A secure and free password manager for all of your devices.
-- [Ublock Origin 🌟](https://ublockorigin.com/) - Free, open-source ad content blocker.
+- [Ublock Origin 🌟](https://ublockorigin.com/) - Free, open-source ad content blocker. **It will not work in manifest v3, use [Ublock Origin Lite](https://chrome.google.com/webstore/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh) instead.**
 - [Dark Reader](https://darkreader.org/) - Dark Mode in all sites.
 
 ## Search Engines
@@ -79,7 +83,6 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 - [lingva-translate](https://lingva.ml/) - a Free and Open Source Alternative front-end for Google Translate.
 - [VirusTotal.com](https://www.virustotal.com/) - Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community.
 - [kutt.it](https://kutt.it/) - An open source modern URL shortener.
-- [Repo Remover](https://reporemover.xyz/) - A web app that helps you archive and delete old/unused repos, quickly and easily.
 
 # Operating Systems
 
@@ -87,14 +90,16 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 
 ### Windows
 
+> ⚠️ Avoid using Windows for privacy and security, it has been proven time and time again that Microsoft does not care about it's users. Use [Linux](#linux) instead. If you have no choice, then use the LTSC version.
+
 - [Windows LTSC 🌟](https://massgrave.dev/windows_ltsc_links) - The best version of Windows. Use Microsoft Activation Scripts to activate.
-- [Chris Titus Tech WinUtil 🌟](https://github.com/ChrisTitusTech/winutil) - Chris' Windows 10 Utility. Use it to debloat and tweak Windows. It's almost always a good idea to run it during each update of Windows.
-- [Simplewall](https://github.com/henrypp/simplewall) - Firewall for Windows.
+- [Chris Titus Tech WinUtil 🌟](https://github.com/ChrisTitusTech/winutil) - Chris Titus Windows utility, use it to debloat and tweak Windows. It's almost always a good idea to run it during each update/install of Windows.
+- [Simplewall 🌟](https://github.com/henrypp/simplewall) - Simple to use Open-Source Firewall for Windows.
 - [Microsoft Activation Scripts](https://massgrave.dev) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 
 ### Linux
 
-- [Arch linux](https://archlinux.org/) - A lightweight and flexible Linux® distribution that tries to keep it simple.
+- [Arch linux](https://archlinux.org/) - A lightweight and flexible Linux distribution that tries to keep it simple.
 - [Debian 🌟](https://www.debian.org/) - A free and open source distribution that is the base for other major distros like Ubuntu, MX Linux, Linux Mint, etc. It is the second oldest actively maintained GNU/Linux distribution.
 - [Linux Mint 🌟](https://linuxmint.com/) - Linux Mint is a community-driven Linux distribution based on Ubuntu, bundled with a variety of free and open-source applications.
 - [Tails](https://tails.boum.org/) (**Live operating system for using the Tor/Onion network**) - Tails is a portable operating system that protects against surveillance and censorship.
@@ -106,9 +111,20 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 
 # Piracy
 
-> ℹ️ I do not condone piracy. These links are only for educational purposes.
+> ⚠️ I do not condone piracy. These links are only for educational purposes.
+
+## Software
 
 - [r/Piracy Megathread 🌟](https://old.reddit.com/r/Piracy/wiki/megathread) - A very carefully curated list of sites for anything Piracy related. Probably the only site you will need to bookmark.
+
+- [SpotX](https://github.com/SpotX-Official/SpotX) - Patched version of Spotify to give an ad-free experience.
+
+## Entertainment
+
+- [FMHY 🌟](https://fmhy.net/) - A collection of media piracy sites, tools and guides.
+
+### Anime
+- [The Index 🌟](https://theindex.moe/) - A curated list of websites for Japanese media like Anime and other weeb stuff.
 
 # Mobile
 
@@ -121,14 +137,13 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 ## Video/Music Streaming
 
 - [Newpipe 🌟](https://newpipe.net/) - Open Source YouTube client.
-- [AntennaPod](https://antennapod.org/) - Free and open source Podcast Player.
 - [xManager](https://github.com/xManager-v2/xManager-Spotify) - Modded Spotify Client.
 
 ## App Stores
 
 - [Fdroid 🌟](https://f-droid.org/) - Find open source apps.
 - [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/) - Alternative to Google Play Store.
-- [Obtainium 🌟](https://github.com/ImranR98/Obtainium) - Get Android App Updates Directly From the Source.
+- [Obtainium](https://github.com/ImranR98/Obtainium) - Get Android App Updates Directly From the Source.
 
 ## Two Factor Authenticator
 
@@ -158,19 +173,19 @@ To install apps from The Gaurdian Project (Tor browser and Orbot) you need to ad
 
 ## VPN and Proxy
 
-> I would recommend self-hosting your own VPN on a VPS or a home server to avoid trusting a third-party VPN provider.
+> ℹ️ I would recommend self-hosting your own VPN on a VPS or a home server to avoid trusting a third-party VPN provider.
 
-- [Mullvad](https://mullvad.net/en/) - Probably the only VPN provider I would recommend.
-
-- [Wireguard 🌟](https://www.wireguard.com/) - Extremely simple yet fast and modern VPN. Easy to self host, also check out [PiVPN](https://www.pivpn.io/) for a installation script.
+- [Wireguard 🌟](https://www.wireguard.com/) - Extremely simple yet fast and modern VPN. Easy to self host, also check out [PiVPN](https://www.pivpn.io/) for an installation script.
 
 - [Tailscale 🌟](https://tailscale.com/) - Zero config VPN, I use this to remotely access my home server despite being under a [ISP CGNAT](https://en.wikipedia.org/wiki/Carrier-grade_NAT).
+
+- [Mullvad](https://mullvad.net/en/) - Probably the only third-party VPN provider I would recommend.
 
 ## Email
 
 - [Protonmail 🌟](https://protonmail.com/) - Secure Email based in Switzerland.
 - [Tutanota](https://f-droid.org/en/packages/de.tutao.tutanota/) - Encrypted email & calendar service - easy to use, secure by design.
-- [K9 mail 🌟](https://f-droid.org/en/packages/com.fsck.k9/) - Open source email client.
+- [K9 mail](https://f-droid.org/en/packages/com.fsck.k9/) - Open source email client.
 
 ## Other Apps
 
