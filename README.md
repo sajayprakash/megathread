@@ -21,6 +21,8 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
   - [Mobile](#mobile)
     - [Refer Custom Rom](#refer-custom-rom)
 - [Piracy](#piracy)
+  - [Software](#software)
+  - [Entertainment](#entertainment)
 - [Mobile](#mobile-1)
   - [Custom Rom](#custom-rom)
   - [Video/Music Streaming](#videomusic-streaming)
