@@ -33,7 +33,7 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 > ℹ️ Your browser is the most important software you will use. I don't think there is a perfect browser out there. Your best choice will vary depending upon if you prioritize performance, features, privacy or security.
 
 - [Google Chrome 🌟](https://www.google.com/chrome/) - Needs no introduction. Bad for user privacy but it is the fastest and most secure browser with the most compatibility for websites.
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - A fast, lightweight, privacy-focused browser that works across all your devices.
+- [Firefox 🌟](https://www.mozilla.org/en-US/firefox/new/) - A fast, lightweight, privacy-focused browser that works across all your devices.
 - [Tor Browser](https://www.torproject.org/) - Defend yourself against tracking and surveillance. Circumvent censorship.
 - [Zen Browser](https://zen-browser.app/) - Firefox fork that is beautifully designed, privacy-focused, and packed with features.
 
@@ -95,9 +95,10 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 
 ## Linux
 
-- [Arch linux](https://archlinux.org/) - DIY Linux Distro, great for building lightweight and customized Linux environments.
-- [Debian 🌟](https://www.debian.org/) - A free and open source distribution that is the base for other major distros like Ubuntu, MX Linux, Linux Mint, etc. It is the second oldest actively maintained GNU/Linux distribution.
+- [Arch linux 🌟](https://archlinux.org/) - DIY Linux Distro, great for building lightweight and customized Linux environments.
 - [Linux Mint 🌟](https://linuxmint.com/) - Linux Mint is a community-driven Linux distribution based on Ubuntu, excellent choice for beginners.
+- [Bazzite 🌟](https://bazzite.gg/) - Gaming distro similar to steamOS. Really good if you want a "just works" distro for gaming.
+- [Debian](https://www.debian.org/) - A free and open source distribution that is the base for other major distros like Ubuntu, MX Linux, Linux Mint, etc. It is the second oldest actively maintained GNU/Linux distribution.
 - [Tails](https://tails.boum.org/) - Tails is a portable operating system that runs on a live environment. Really good for browsing anonymously as data is stored in ram and wiped on reboot. 
 - [Qubes OS](https://www.qubes-os.org/) - Really secure operating-system that uses virtualized environments for segregated workflows.
 
@@ -107,9 +108,9 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 
 - [r/Piracy Megathread 🌟](https://old.reddit.com/r/Piracy/wiki/megathread) - A very carefully curated list of sites for anything Piracy related. Probably the only site you will need to bookmark.
 - [FMHY 🌟](https://fmhy.net/) - A collection of media piracy sites, tools and guides.
-- [Wotaku](https://wotaku.wiki/) - Similar to FMHY but more for anime/manga stuff.
+- [Wotaku 🌟](https://wotaku.wiki/) - Similar to FMHY but more for anime/manga stuff.
 - [The Index](https://theindex.moe/) - A curated list of websites for Japanese media like Anime and other weeb stuff.
-- [Microsoft Activation Scripts](https://massgrave.dev) - Free and Open-Source Microsoft Windows/Office activator. Who pays for windows license?
+- [Microsoft Activation Scripts 🌟](https://massgrave.dev) - Free and Open-Source Microsoft Windows/Office activator. Who pays for windows license?
 
 # Mobile
 
@@ -132,8 +133,7 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 ### Two Factor Authenticator
 
 - [Aegis](https://f-droid.org/en/packages/com.beemdevelopment.aegis/) - a free, secure and open source app to manage your 2-step verification tokens for your online services.
-- [Ente Auth](https://ente.io/auth/) - End to end, open source and cross-platform 2FA authenticator.
-- [Google Authenticator 🌟](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&pcampaignid=web_share) - The most widely used 2FA authenticator. I use this as it syncs directly to my google account.
+- [Ente Auth 🌟](https://ente.io/auth/) - End to end, open source and cross-platform 2FA authenticator.
 
 ### Anime/Manga
 
