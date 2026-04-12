@@ -32,10 +32,10 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 
 > ℹ️ Your browser is the most important software you will use. I don't think there is a perfect browser out there. Your best choice will vary depending upon if you prioritize performance, features, privacy or security.
 
-- [Google Chrome 🌟](https://www.google.com/chrome/) - Needs no introduction. Bad for user privacy but it is the fastest and most secure browser with the most compatibility for websites.
-- [Firefox 🌟](https://www.mozilla.org/en-US/firefox/new/) - A fast, lightweight, privacy-focused browser that works across all your devices.
-- [Tor Browser](https://www.torproject.org/) - Defend yourself against tracking and surveillance. Circumvent censorship.
+- [Brave Browser 🌟](https://brave.com/) - Excellent chromium browser with manifest v2 extension support. (**Disable the crypto and AI bloat if you don't like it**)
+- [Helium Browser](https://helium.computer/) - A good minimal chromium browser with sane defaults. (**⚠️ Still in development**)
 - [Zen Browser](https://zen-browser.app/) - Firefox fork that is beautifully designed, privacy-focused, and packed with features.
+- [Tor Browser](https://www.torproject.org/) - Great browser for browsing anonymously but very slow and unusable for daily browsing.
 
 ## Password Manager
 
@@ -56,8 +56,8 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 - [MAL Sync](https://malsync.moe/) - Tracks anime using MyAnimeList, AniList and more.
 ## Search Engines
 
-- [SearXNG](https://searx.space/) - A privacy-respecting metasearch engine.
-- [Duckduckgo](https://duckduckgo.com/) - A decent search engine but doesn't give good search results imo.
+- [SearXNG 🌟](https://searx.space/) - A privacy-respecting metasearch engine. (**I like self-hosting this**)
+- [Brave Search](https://search.brave.com/) - An independent web search engine developed by Brave Software.
 
 ## Email
 
@@ -95,12 +95,12 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 
 ## Linux
 
-- [Arch linux 🌟](https://archlinux.org/) - DIY Linux Distro, great for building lightweight and customized Linux environments.
-- [Linux Mint 🌟](https://linuxmint.com/) - Linux Mint is a community-driven Linux distribution based on Ubuntu, excellent choice for beginners.
-- [Bazzite 🌟](https://bazzite.gg/) - Gaming distro similar to steamOS. Really good if you want a "just works" distro for gaming.
+- [CachyOS 🌟](https://cachyos.org/) - Amazing Arch-based distro with good defaults and optimizations for gaming.
+- [Arch linux](https://archlinux.org/) - DIY Linux Distro, great for building lightweight and customized Linux environments.
+- [Omarchy](https://omarchy.org/) - Beautiful, Modern & Opinionated Linux created by DHH.
+- [Linux Mint](https://linuxmint.com/) - Linux Mint is a community-driven Linux distribution based on Ubuntu, excellent choice for beginners.
+- [Bazzite](https://bazzite.gg/) - Gaming distro similar to steamOS. Really good if you want a "just works" distro for gaming.
 - [Debian](https://www.debian.org/) - A free and open source distribution that is the base for other major distros like Ubuntu, MX Linux, Linux Mint, etc. It is the second oldest actively maintained GNU/Linux distribution.
-- [Tails](https://tails.boum.org/) - Tails is a portable operating system that runs on a live environment. Really good for browsing anonymously as data is stored in ram and wiped on reboot. 
-- [Qubes OS](https://www.qubes-os.org/) - Really secure operating-system that uses virtualized environments for segregated workflows.
 
 # Piracy
 
