@@ -17,6 +17,7 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 - [Operating Systems](#operating-systems)
     - [Windows](#windows)
     - [Linux](#linux)
+- [AI](#ai)
 - [Piracy](#piracy)
 - [Mobile](#mobile)
   - [Android](#android)
@@ -101,6 +102,14 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 - [Linux Mint](https://linuxmint.com/) - Linux Mint is a community-driven Linux distribution based on Ubuntu, excellent choice for beginners.
 - [Bazzite](https://bazzite.gg/) - Gaming distro similar to steamOS. Really good if you want a "just works" distro for gaming.
 - [Debian](https://www.debian.org/) - A free and open source distribution that is the base for other major distros like Ubuntu, MX Linux, Linux Mint, etc. It is the second oldest actively maintained GNU/Linux distribution.
+
+# AI
+> ⚠️ I highly discourage the usage of LLMs from large corporations due to their data training policies and lack of privacy. It is highly recommended to self-host your own AI models when possible.
+
+- [Hugging Face](https://huggingface.co/) - A platform to collaborate on models, datasets, and applications.
+- [Ollama](https://ollama.com/) - A CLI tool for running local AI models.
+- [LM Studio](https://lmstudio.ai/) - Easily setup and run local AI models using a GUI interface.
+- [OpenCode](https://opencode.ai/) - An open-source AI agent, alternative to Claude Code.
 
 # Piracy
 
