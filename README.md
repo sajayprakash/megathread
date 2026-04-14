@@ -14,6 +14,7 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
   - [Torrenting client](#torrenting-client)
   - [VPN and Proxy](#vpn-and-proxy)
   - [Useful Sites](#useful-sites)
+- [Software](#software)
 - [Operating Systems](#operating-systems)
     - [Windows](#windows)
     - [Linux](#linux)
@@ -83,6 +84,14 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 - [lingva-translate](https://lingva.ml/) - a Free and Open Source Alternative front-end for Google Translate.
 - [VirusTotal.com](https://www.virustotal.com/) - Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community.
 - [kutt.it](https://kutt.it/) - An open source modern URL shortener.
+
+# Software
+- [VLC Media Player](http://www.videolan.org/vlc) - A free and open source cross-platform multimedia player.
+- [MPV 🌟](https://mpv.io/) - Similar to VLC but is insanely customizable and imo has better video playback quality.
+- [Anki 🌟](https://apps.ankiweb.net/) - A free and open-source flashcard program.
+- [Calibre 🌟](https://calibre-ebook.com/) - An E-book management software, I use this to manage books on my ereaders.
+- [Loseless Cut](https://github.com/mifi/lossless-cut) - Trim and cut video/audio files in a loseless manner.
+- [HandBrake](https://handbrake.fr/) - A free and open-source video transcoding software.
 
 # Operating Systems
 
