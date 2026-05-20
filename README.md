@@ -129,6 +129,8 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 
 > ⚠️ I do not condone piracy. These links are only for educational purposes.
 
+> ⚠️ Always use uBlock Origin (**NOT Lite**) before visiting any of these sites as they may contain malicious redirects. Refer [Browser Extensions](#browser-extensions)
+
 - [r/Piracy Megathread 🌟](https://old.reddit.com/r/Piracy/wiki/megathread) - A very carefully curated list of sites for anything Piracy related. Probably the only site you will need to bookmark.
 - [FMHY 🌟](https://fmhy.net/) - A collection of media piracy sites, tools and guides.
 - [Wotaku 🌟](https://wotaku.wiki/) - Similar to FMHY but more for anime/manga stuff.
