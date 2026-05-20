@@ -37,7 +37,7 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 - [Brave Browser 🌟](https://brave.com/) - Excellent chromium browser with manifest v2 extension support. (**Disable the crypto and AI bloat if you don't like it**)
 - [Helium Browser](https://helium.computer/) - A good minimal chromium browser with sane defaults. (**⚠️ Still in development**)
 - [Firefox 🌟](https://www.firefox.com/) - The only real competition for chromium browsers, is highly customizable and still has Manifest V2 support. (**You can easily disable all current and future AI bloat with a single button**)
-- [Zen Browser](https://zen-browser.app/) - Firefox fork that is beautifully designed, privacy-focused, and packed with features.
+- [Zen Browser](https://zen-browser.app/) - Firefox fork that is beautifully designed, privacy-focused, and packed with features. (**⚠️ Still in development**)
 - [Tor Browser](https://www.torproject.org/) - Great browser for browsing anonymously but very slow and unusable for daily browsing.
 
 ## Password Manager
