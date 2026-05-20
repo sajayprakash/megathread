@@ -1,4 +1,4 @@
-If you have any suggestions and recommendations or find any errors, feel free to [open a request ](https://github.com/sajayprakash/sajayprakash.com/issues/new/).
+If you have any suggestions and recommendations or find any errors, feel free to [open a request](https://github.com/sajayprakash/sajayprakash.com/issues/new/).
 
 Items in this page that have a 🌟 icon next to them represent my top/favourite pick(s) from that category.
 
@@ -16,8 +16,8 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
   - [Useful Sites](#useful-sites)
 - [Software](#software)
 - [Operating Systems](#operating-systems)
-    - [Windows](#windows)
-    - [Linux](#linux)
+  - [Windows](#windows)
+  - [Linux](#linux)
 - [AI](#ai)
 - [Piracy](#piracy)
 - [Mobile](#mobile)
@@ -51,12 +51,15 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 
 > ⚠️ If you use Google Chrome or chromium-based browsers, you will have to use extensions that support Manifest v3 like [uBlock Origin Lite](https://chrome.google.com/webstore/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh).
 
+> ⚠️ From my personal testing and observation, I have noticed that uBlock Origin **Lite** is not as good as uBlock Origin. Please use regular uBlock Origin with a manifest V2 supported browser like [Brave](https://brave.com/) or [Firefox](https://www.firefox.com/) when visiting piracy sites as some sites are still able to bypass uBO **Lite** but not regular uBlock Origin.
+
 - [Bitwarden 🌟](https://bitwarden.com) - A secure and free password manager for all of your devices.
 - [uBlock Origin 🌟](https://ublockorigin.com/) - Free, open-source ad content blocker. (**Only for manifest v2 supported browsers**)
-- [uBlock Origin Lite 🌟](https://chrome.google.com/webstore/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh) - uBlock Origin built with manifest v3
+- [uBlock Origin Lite](https://chrome.google.com/webstore/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh) - uBlock Origin built with manifest v3. (⚠️ See note above)
 - [Dark Reader](https://darkreader.org/) - Dark Mode in all sites. Everyone prefers dark mode, right?
 - [SponsorBlock](https://sponsor.ajay.app/) - SponsorBlock is an open-source crowdsourced browser extension and open API for skipping sponsor segments in YouTube videos.
 - [MAL Sync](https://malsync.moe/) - Tracks anime using MyAnimeList, AniList and more.
+
 ## Search Engines
 
 - [SearXNG 🌟](https://searx.space/) - A privacy-respecting metasearch engine. (**I like self-hosting this**)
@@ -87,6 +90,7 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 - [kutt.it](https://kutt.it/) - An open source modern URL shortener.
 
 # Software
+
 - [VLC Media Player](http://www.videolan.org/vlc) - A free and open source cross-platform multimedia player.
 - [MPV 🌟](https://mpv.io/) - Similar to VLC but is insanely customizable and imo has better video playback quality.
 - [Anki 🌟](https://apps.ankiweb.net/) - A free and open-source flashcard program.
@@ -103,7 +107,6 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 - [Windows LTSC 🌟](https://massgrave.dev/windows_ltsc_links) - The best version of Windows. More debloated and no useless "feature" updates for many years. Use [Microsoft Activation Scripts](#piracy) to activate.
 - [Chris Titus Tech WinUtil 🌟](https://github.com/ChrisTitusTech/winutil) - Chris Titus Windows utility, use it to debloat and tweak Windows. It's almost always a good idea to run it during each update/install of Windows.
 
-
 ## Linux
 
 - [CachyOS 🌟](https://cachyos.org/) - Amazing Arch-based distro with good defaults and optimizations for gaming.
@@ -114,6 +117,7 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 - [Debian](https://www.debian.org/) - A free and open source distribution that is the base for other major distros like Ubuntu, MX Linux, Linux Mint, etc. It is the second oldest actively maintained GNU/Linux distribution.
 
 # AI
+
 > ⚠️ I highly discourage the usage of LLMs from large corporations due to their data training policies and lack of privacy. It is highly recommended to self-host your own AI models when possible.
 
 - [Hugging Face](https://huggingface.co/) - A platform to collaborate on models, datasets, and applications.
