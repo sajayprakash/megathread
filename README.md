@@ -34,9 +34,10 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 
 > ℹ️ Your browser is the most important software you will use. I don't think there is a perfect browser out there. Your best choice will vary depending upon if you prioritize performance, features, privacy or security.
 
-- [Brave Browser 🌟](https://brave.com/) - Excellent chromium browser with manifest v2 extension support. (**Disable the crypto and AI bloat if you don't like it**)
-- [Helium Browser](https://helium.computer/) - A good minimal chromium browser with sane defaults. (**⚠️ Still in development**)
-- [Firefox 🌟](https://www.firefox.com/) - The only real competition for chromium browsers, is highly customizable and still has Manifest V2 support. (**You can easily disable all current and future AI bloat with a single button**)
+- [Brave Browser](https://brave.com/) - Excellent chromium browser with manifest v2 extension support. (**Disable the crypto and AI bloat if you don't like it**)
+- [Helium Browser 🌟](https://helium.computer/) - A good minimal chromium browser with sane defaults. (**⚠️ Still in development**)
+- [Firefox](https://www.firefox.com/) - The only real competition for chromium browsers, is highly customizable and still has Manifest V2 support. (**You can easily disable all current and future AI bloat with a single button**)
+- [LibreWolf 🌟](https://librewolf.net/) - A custom version of Firefox, focused on privacy, security and freedom with great defaults. (**Make sure to disable clearing `cookies and site data` in `about:preferences#privacy` if you want your accounts to stay logged in on restart**)
 - [Zen Browser](https://zen-browser.app/) - Firefox fork that is beautifully designed, privacy-focused, and packed with features. (**⚠️ Still in development**)
 - [Tor Browser](https://www.torproject.org/) - Great browser for browsing anonymously but very slow and unusable for daily browsing.
 
