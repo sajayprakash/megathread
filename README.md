@@ -125,6 +125,7 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 - [Ollama](https://ollama.com/) - A CLI tool for running local AI models.
 - [LM Studio](https://lmstudio.ai/) - Easily setup and run local AI models using a GUI interface.
 - [OpenCode](https://opencode.ai/) - An open-source AI agent, alternative to Claude Code.
+- [Hermes Agent](https://github.com/nousresearch/hermes-agent) - An open-source autonomous AI agent.
 
 # Piracy
 
@@ -132,7 +133,6 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 
 > ⚠️ Always use uBlock Origin (**NOT Lite**) before visiting any of these sites as they may contain malicious redirects. Refer [Browser Extensions](#browser-extensions)
 
-- [r/Piracy Megathread 🌟](https://old.reddit.com/r/Piracy/wiki/megathread) - A very carefully curated list of sites for anything Piracy related. Probably the only site you will need to bookmark.
 - [FMHY 🌟](https://fmhy.net/) - A collection of media piracy sites, tools and guides.
 - [Wotaku 🌟](https://wotaku.wiki/) - Similar to FMHY but more for anime/manga stuff.
 - [The Index](https://theindex.moe/) - A curated list of websites for Japanese media like Anime and other weeb stuff.
@@ -164,7 +164,6 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 ### Anime/Manga
 
 - [Mihon](https://github.com/mihonapp/mihon/) - Free and open source manga reader for Android.
-- [Aniyomi](https://aniyomi.org/) - Free and open source anime player and manga reader based on Mihon.
 
 ### Social Media
 
